@@ -28,6 +28,10 @@
         {
             "source": "data.csv",
             "target": "script_2940.R"
+        },
+        {
+            "source": "script_2940.R",
+            "target": "data_7057.csv"
         }
     ]
 }
