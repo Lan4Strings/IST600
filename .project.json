@@ -8,6 +8,12 @@
         },
         {
             "name": "clean.R"
+        },
+        {
+            "name": "data_7057.csv"
+        },
+        {
+            "name": "script_2940.R"
         }
     ],
     "edges": [
@@ -18,6 +24,14 @@
         {
             "source": "clean.R",
             "target": "data.csv"
+        },
+        {
+            "source": "data.csv",
+            "target": "script_2940.R"
+        },
+        {
+            "source": "script_2940.R",
+            "target": "data_7057.csv"
         }
     ]
 }
