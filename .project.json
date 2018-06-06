@@ -24,6 +24,10 @@
         {
             "source": "clean.R",
             "target": "data.csv"
+        },
+        {
+            "source": "data.csv",
+            "target": "script_2940.R"
         }
     ]
 }
