@@ -1,0 +1,23 @@
+{
+    "nodes": [
+        {
+            "name": "raw_data.csv"
+        },
+        {
+            "name": "data.csv"
+        },
+        {
+            "name": "clean.R"
+        }
+    ],
+    "edges": [
+        {
+            "source": "raw_data.csv",
+            "target": "clean.R"
+        },
+        {
+            "source": "clean.R",
+            "target": "data.csv"
+        }
+    ]
+}
