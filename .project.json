@@ -23,6 +23,10 @@
         {
             "source": "parceldata.csv",
             "target": "cleanparceldata.R"
+        },
+        {
+            "source": "crimedata.csv",
+            "target": "cleancrime.R"
         }
     ]
 }
