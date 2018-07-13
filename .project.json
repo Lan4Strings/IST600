@@ -35,6 +35,9 @@
         },
         {
             "name": "merged_parcel.csv"
+        },
+        {
+            "name": "merged_block.csv"
         }
     ],
     "edges": [
