@@ -41,6 +41,9 @@
         },
         {
             "name": "parcelanalyze.R"
+        },
+        {
+            "name": "blockanalyze.R"
         }
     ],
     "edges": [
