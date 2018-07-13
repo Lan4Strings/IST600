@@ -14,7 +14,8 @@ df <- read.csv('parceldata.csv')
 
 ####################################
 ##### write output file ############
-# add your R code to write output file
+write.csv(df, file = 'parcel.csv')
 ####################################
+
 
 
