@@ -87,6 +87,10 @@
         {
             "source": "merge.R",
             "target": "merged_block.csv"
+        },
+        {
+            "source": "merged_parcel.csv",
+            "target": "parcelanalyze.R"
         }
     ]
 }
