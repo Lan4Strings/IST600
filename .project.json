@@ -13,9 +13,6 @@
             "name": "data_7057.csv"
         },
         {
-            "name": "script_2940.R"
-        },
-        {
             "name": "script_5248.R"
         }
     ],
@@ -27,14 +24,6 @@
         {
             "source": "clean.R",
             "target": "data.csv"
-        },
-        {
-            "source": "data.csv",
-            "target": "script_2940.R"
-        },
-        {
-            "source": "script_2940.R",
-            "target": "data_7057.csv"
         },
         {
             "source": "data.csv",
