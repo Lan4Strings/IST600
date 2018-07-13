@@ -80,6 +80,10 @@
         {
             "source": "merge.R",
             "target": "merged_parcel.csv"
+        },
+        {
+            "source": "merge.R",
+            "target": "merged_block.csv"
         }
     ]
 }
