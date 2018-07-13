@@ -8,6 +8,9 @@
         },
         {
             "name": "cleanparceldata.R"
+        },
+        {
+            "name": "crimedata.csv"
         }
     ],
     "edges": [
