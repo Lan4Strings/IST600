@@ -37,6 +37,10 @@
         {
             "source": "censusdata.csv",
             "target": "cleancensus.R"
+        },
+        {
+            "source": "cleanparceldata.R",
+            "target": "parcel.csv"
         }
     ]
 }
