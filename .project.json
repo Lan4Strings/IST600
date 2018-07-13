@@ -11,6 +11,9 @@
         },
         {
             "name": "crimedata.csv"
+        },
+        {
+            "name": "censusdata.csv"
         }
     ],
     "edges": [
