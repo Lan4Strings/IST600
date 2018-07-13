@@ -26,6 +26,9 @@
         },
         {
             "name": "crime.csv"
+        },
+        {
+            "name": "census.csv"
         }
     ],
     "edges": [
