@@ -58,6 +58,10 @@
         {
             "source": "cleancensus.R",
             "target": "census.csv"
+        },
+        {
+            "source": "parcel.csv",
+            "target": "merge.R"
         }
     ]
 }
