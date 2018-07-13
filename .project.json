@@ -94,6 +94,10 @@
         {
             "source": "merged_parcel.csv",
             "target": "parcelanalyze.R"
+        },
+        {
+            "source": "merged_block.csv",
+            "target": "blockanalyze.R"
         }
     ]
 }
