@@ -14,6 +14,6 @@ df <- read.csv('raw_data.csv')
 
 ####################################
 ##### write output file ############
-write.csv(df, file = 'data.csv')
+write.csv(df, file = 'data.R')
 ####################################
 
