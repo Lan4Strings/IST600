@@ -11,9 +11,6 @@
         },
         {
             "name": "data_7057.csv"
-        },
-        {
-            "name": "script_5248.R"
         }
     ],
     "edges": [
@@ -24,10 +21,6 @@
         {
             "source": "clean.R",
             "target": "data.csv"
-        },
-        {
-            "source": "data.csv",
-            "target": "script_5248.R"
         }
     ]
 }
