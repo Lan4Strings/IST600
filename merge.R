@@ -14,8 +14,9 @@ df <- read.csv('census.csv')
 
 ####################################
 ##### write output file ############
-write.csv(df, file = 'merged_parcel.csv')
+write.csv(df, file = 'merged_block.csv')
 ####################################
+
 
 
 
