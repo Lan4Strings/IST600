@@ -66,6 +66,10 @@
         {
             "source": "crime.csv",
             "target": "merge.R"
+        },
+        {
+            "source": "census.csv",
+            "target": "merge.R"
         }
     ]
 }
