@@ -10,5 +10,10 @@
             "name": "cleanparceldata.R"
         }
     ],
-    "edges": []
+    "edges": [
+        {
+            "source": "parceldata.csv",
+            "target": "cleanparceldata.R"
+        }
+    ]
 }
