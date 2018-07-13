@@ -29,6 +29,9 @@
         },
         {
             "name": "census.csv"
+        },
+        {
+            "name": "merge.R"
         }
     ],
     "edges": [
