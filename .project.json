@@ -51,6 +51,10 @@
         {
             "source": "cleancrime.R",
             "target": "crime.csv"
+        },
+        {
+            "source": "cleancensus.R",
+            "target": "census.csv"
         }
     ]
 }
