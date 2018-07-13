@@ -73,6 +73,10 @@
         {
             "source": "census.csv",
             "target": "merge.R"
+        },
+        {
+            "source": "merge.R",
+            "target": "merged_parcel.csv"
         }
     ]
 }
