@@ -2,6 +2,9 @@
     "nodes": [
         {
             "name": "raw_data.csv"
+        },
+        {
+            "name": "parceldata.csv"
         }
     ],
     "edges": []
