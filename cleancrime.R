@@ -14,7 +14,8 @@ df <- read.csv('crimedata.csv')
 
 ####################################
 ##### write output file ############
-# add your R code to write output file
+write.csv(df, file = 'crime.csv')
 ####################################
+
 
 
