@@ -4,34 +4,100 @@
             "name": "raw_data.csv"
         },
         {
-            "name": "data.csv"
+            "name": "parceldata.csv"
         },
         {
-            "name": "clean.R"
+            "name": "cleanparceldata.R"
         },
         {
-            "name": "data_7057.csv"
+            "name": "crimedata.csv"
         },
         {
-            "name": "script_2940.R"
+            "name": "censusdata.csv"
+        },
+        {
+            "name": "cleancrime.R"
+        },
+        {
+            "name": "cleancensus.R"
+        },
+        {
+            "name": "parcel.csv"
+        },
+        {
+            "name": "crime.csv"
+        },
+        {
+            "name": "census.csv"
+        },
+        {
+            "name": "merge.R"
+        },
+        {
+            "name": "merged_parcel.csv"
+        },
+        {
+            "name": "merged_block.csv"
+        },
+        {
+            "name": "parcelanalyze.R"
+        },
+        {
+            "name": "blockanalyze.R"
         }
     ],
     "edges": [
         {
-            "source": "raw_data.csv",
-            "target": "clean.R"
+            "source": "parceldata.csv",
+            "target": "cleanparceldata.R"
         },
         {
-            "source": "clean.R",
-            "target": "data.csv"
+            "source": "crimedata.csv",
+            "target": "cleancrime.R"
         },
         {
-            "source": "data.csv",
-            "target": "script_2940.R"
+            "source": "censusdata.csv",
+            "target": "cleancensus.R"
         },
         {
-            "source": "script_2940.R",
-            "target": "data_7057.csv"
+            "source": "cleanparceldata.R",
+            "target": "parcel.csv"
+        },
+        {
+            "source": "cleancrime.R",
+            "target": "crime.csv"
+        },
+        {
+            "source": "cleancensus.R",
+            "target": "census.csv"
+        },
+        {
+            "source": "parcel.csv",
+            "target": "merge.R"
+        },
+        {
+            "source": "crime.csv",
+            "target": "merge.R"
+        },
+        {
+            "source": "census.csv",
+            "target": "merge.R"
+        },
+        {
+            "source": "merge.R",
+            "target": "merged_parcel.csv"
+        },
+        {
+            "source": "merge.R",
+            "target": "merged_block.csv"
+        },
+        {
+            "source": "merged_parcel.csv",
+            "target": "parcelanalyze.R"
+        },
+        {
+            "source": "merged_block.csv",
+            "target": "blockanalyze.R"
         }
     ]
 }

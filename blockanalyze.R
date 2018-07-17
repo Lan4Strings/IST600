@@ -5,7 +5,7 @@ setwd(Sys.getenv('PROJECT_HOME'))
 
 ####################################
 ## write code to read input csv into data frame
-df <- read.csv('raw_data.csv')
+df <- read.csv('merged_block.csv')
 ####################################
 
 ## start writing your R code from here
@@ -14,6 +14,7 @@ df <- read.csv('raw_data.csv')
 
 ####################################
 ##### write output file ############
-write.csv(df, file = 'data.csv')
+# add your R code to write output file
 ####################################
+
 
