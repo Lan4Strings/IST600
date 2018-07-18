@@ -13,14 +13,19 @@ df3 <- read.csv('census.csv')
 ## start writing your R code from here
 data<-df1[,-1]
 datanew<-data.frame(data)
-datanew$block.address<-paste(datanew$StNum,datanew$StName)#################
+block<-gsub("-.*$","",datanew$StNum)
+block<-gsub(" .*$","",block)
+block<-gsub("&.*$","",block)
+block<-floor(as.numeric(block)/100)*100
+datanew$block.address<-paste(block,'block',datanew$StName)
 datanew$block.address<-gsub("AVE","AV",datanew$block.address)
 datanew$block.address<-tolower(datanew$block.address)
 datanew$block.address<-gsub("\\s?&.*$","",datanew$block.address)
 datanew$block.address<-gsub(" rear.*$","",datanew$block.address)
 datanew$block.address<-gsub(" to .*$","",datanew$block.address)
 datanew$block.address<-gsub(" #.*$","",datanew$block.address)
-
+datanew$block.address<-gsub(" \\s+"," ",datanew$block.address)
+datanew$block.address<-tolower(datanew$block.address)
 
 
 crimedata<-df2[,-1]
@@ -53,9 +58,9 @@ datacrime$Address[West==TRUE]<-paste(datacrime$Address[West==TRUE],"w")
 
 
 
-
 datamerged<-merge(datanew,datacrime,by.x="block.address",by.y="Address"
-                 # ,all.y=TRUE
+                  ,all.x=TRUE
+                  ,all.y=TRUE
 )
 datamerged$Aggravated.assault[is.na(datamerged$Aggravated.assault)]<-0
 datamerged$Arson[is.na(datamerged$Arson)]<-0
@@ -66,11 +71,14 @@ datamerged$Robbery[is.na(datamerged$Robbery)]<-0
 datamerged$Vehicle.theft[is.na(datamerged$Vehicle.theft)]<-0
 #save(datamerged,file="datamerged.Rdata")
 
-missdata<-datamerged[is.na(datamerged$Sec_Block),]
-sum(datamerged$Total[is.na(datamerged$Sec_Block)])
-sum(datamerged$Total)
+missdata_parcel<-datamerged[is.na(datamerged$Sec_Block),]
+missdata_crime<-datamerged[datamerged$Total==0,]
 
+
+
+df2<-datamerged
 ## end your R code and logic 
+
 
 ####################################
 ##### write output file ############
