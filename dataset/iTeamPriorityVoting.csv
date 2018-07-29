@@ -1,0 +1,878 @@
+﻿When_,Which_of_the_following_challeng,Which_of_the_following_challe_1,Which_of_the_following_challe_2,Which_of_the_following_challe_3,Which_of_the_following_challe_4,Which_of_the_following_challe_5,Do_you_like_being_engaged_throu,Do_you_like_being_engaged_thr_1,Do_you_like_being_engaged_thr_2,What_neighborhood_do_you_live_i,What_neighborhood_do_you_live_1,Age___value,Gender___value,Education___value,Country_of_Origin,Preferred_Language,Annual_Income___value,Ballot,Locale,FID
+2018-02-08T16:02:08.000Z,0,0,0,0,0,1,1,0,0,I live outside of the City,,> 60,Male,Bachelors Degree,USA,English,"$50,000 - $74,999",,en,1
+2018-02-08T19:11:23.000Z,1,-1,0,0,1,0,0,1,0,Hawley Green,,> 60,Male,Some College,,,"$50,000 - $74,999",,en,2
+2018-01-31T18:12:21.000Z,0,1,0,0,0,1,1,0,0,Court Woodlawn,,< 18,Female,Less than high school,,,,,en,3
+2018-02-16T01:36:36.000Z,0,0,0,1,0,1,1,0,0,Tipp Hill,,19 - 42,Male,Associates Degree,,,"$15,000 - $24,999",,en,4
+2018-02-07T15:49:13.000Z,1,0,0,0,1,0,1,0,0,Eastwood,,43 - 60,Female,Bachelors Degree,,,"$50,000 - $74,999",,en,5
+2018-02-07T19:32:40.000Z,0,0,0,1,1,0,1,0,0,Downtown,,43 - 60,Male,Bachelors Degree,,,"$100,000 - $149,999",,en,6
+2018-02-15T23:20:36.000Z,1,0,0,1,0,0,0,1,0,Westcott,,> 60,Female,Graduate or Professional Degree,,,,,en,7
+2018-02-08T03:07:49.000Z,0,1,0,-1,1,0,1,0,0,Strathmore,,19 - 42,Female,Bachelors Degree,USA,English,"$75,000 - $99,999",,en,8
+2018-01-31T23:17:05.000Z,1,0,0,0,0,1,1,0,0,South Valley,,43 - 60,Female,Graduate or Professional Degree,,,,,en,9
+2018-02-20T15:12:07.000Z,1,1,0,0,0,0,0,0,0,Near Westside,,43 - 60,Female,Bachelors Degree,,,"$15,000 - $24,999",,en,10
+2018-02-17T19:52:34.000Z,0,0,1,0,0,1,1,0,0,Sedgwick,,43 - 60,Female,Bachelors Degree,,,,,en,11
+2018-02-15T00:41:49.000Z,0,0,0,0,0,1,0,1,0,Other,,> 60,Male,Graduate or Professional Degree,,,,,en,12
+2018-02-07T19:10:56.000Z,1,1,-1,0,0,0,1,0,0,Westcott,,19 - 42,Female,Bachelors Degree,US,English,"$35,000 - $49,999",,en,13
+2018-02-05T01:41:12.000Z,0,1,0,1,-1,0,1,0,0,Downtown,,19 - 42,Female,Bachelors Degree,,,"$100,000 - $149,999",,en,14
+2018-02-14T01:30:16.000Z,1,0,0,-1,0,1,1,0,0,I live outside of the City,,> 60,Male,Bachelors Degree,,,"$75,000 - $99,999",,en,15
+2018-02-07T22:57:36.000Z,0,1,0,0,1,-1,0,1,0,Strathmore,,19 - 42,Female,Graduate or Professional Degree,USA,english,"$35,000 - $49,999",,en,16
+2018-02-20T15:15:44.000Z,1,1,0,0,-1,0,0,0,0,Skunk City,,19 - 42,Male,High School or GED,,,"Less than $10,000",,en,17
+2018-02-07T21:42:55.000Z,-1,0,1,1,0,0,0,0,1,Salt Springs,,19 - 42,Female,Some College,,,"$35,000 - $49,999",,en,18
+2018-02-12T14:11:27.000Z,0,1,0,0,0,1,1,0,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,19
+2018-02-07T20:11:43.000Z,1,0,1,0,0,0,0,1,0,I live outside of the City,,43 - 60,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,20
+2018-02-14T17:16:36.000Z,0,0,-1,0,1,1,1,0,0,Sedgwick,,> 60,Male,Graduate or Professional Degree,,,,,en,21
+2018-01-31T15:52:58.000Z,0,0,-1,1,0,1,1,0,0,Westcott,,> 60,Male,Graduate or Professional Degree,United States,English,"$75,000 - $99,999",,en,22
+2018-02-07T16:14:12.000Z,0,1,1,-1,0,0,1,0,0,Sedgwick,,43 - 60,Female,Graduate or Professional Degree,,,,,en,23
+2018-02-20T15:46:46.000Z,0,1,0,1,0,0,0,0,0,Westcott,,> 60,Male,Some College,,,"$15,000 - $24,999",,en,24
+2018-02-20T15:43:10.000Z,0,1,0,1,0,0,0,0,0,Salt Springs,,43 - 60,Female,Some College,,,"$15,000 - $24,999",,en,25
+2018-02-15T02:17:19.000Z,1,0,0,0,0,1,1,0,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,26
+2018-02-05T20:00:15.000Z,0,1,-1,1,0,0,0,1,0,Westcott,,> 60,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,27
+2018-02-20T15:48:46.000Z,0,1,0,0,0,1,0,0,0,Westcott,,19 - 42,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,28
+2018-01-31T23:15:56.000Z,-1,1,0,0,1,0,1,0,0,Salt Springs,,19 - 42,Female,Graduate or Professional Degree,,,,,en,29
+2018-02-14T00:28:41.000Z,1,0,0,0,0,1,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,,,"$35,000 - $49,999",,en,30
+2018-02-08T20:02:12.000Z,1,0,1,0,-1,0,1,0,0,University Neighborhood,,43 - 60,Male,Graduate or Professional Degree,,,,,en,31
+2018-01-31T23:56:08.000Z,1,0,0,1,0,0,1,0,0,Downtown,,19 - 42,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,32
+2018-02-14T01:36:21.000Z,0,0,0,0,0,1,0,0,1,I live outside of the City,,43 - 60,Male,Graduate or Professional Degree,,,,,en,33
+2018-02-07T22:45:02.000Z,0,0,0,1,0,1,0,0,0,Westcott,,> 60,Female,Graduate or Professional Degree,,,"$35,000 - $49,999",,en,34
+2018-02-20T15:31:47.000Z,1,0,1,0,0,-1,0,0,0,Near Westside,,19 - 42,Male,High School or GED,,,"Less than $10,000",,en,35
+2018-02-14T16:08:35.000Z,1,0,0,0,0,1,1,0,0,I live outside of the City,,43 - 60,Male,Graduate or Professional Degree,,,"$150,000 - $199,999",,en,36
+2018-02-20T16:32:48.000Z,1,0,0,1,-1,0,0,0,0,South Valley,,43 - 60,Male,Associates Degree,,,,,en,37
+2018-02-07T15:55:14.000Z,1,0,0,0,1,0,1,0,0,Eastwood,,43 - 60,Female,Some College,,,,,en,38
+2018-02-07T17:22:42.000Z,1,0,0,0,-1,1,1,0,0,I live outside of the City,,19 - 42,Female,Graduate or Professional Degree,USA,French,"$50,000 - $74,999",,en,39
+2018-02-20T15:14:57.000Z,0,1,0,1,0,0,0,0,0,Skunk City,,19 - 42,Female,High School or GED,,,,,en,40
+2018-01-31T23:58:52.000Z,1,0,1,0,0,0,1,0,0,Westcott,,43 - 60,Male,Graduate or Professional Degree,United States,English,"$75,000 - $99,999",,en,41
+2018-02-07T21:45:30.000Z,0,0,1,0,1,-1,1,0,0,I live outside of the City,,19 - 42,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,42
+2018-02-07T19:33:46.000Z,0,0,-1,0,1,1,1,0,0,University Neighborhood,,19 - 42,Female,Bachelors Degree,United States,English,"$35,000 - $49,999",,en,43
+2018-02-15T21:54:12.000Z,-1,0,1,0,1,0,1,0,0,Strathmore,,43 - 60,Male,Associates Degree,,,,,en,44
+2018-02-07T17:04:53.000Z,0,1,0,0,1,-1,1,0,0,Sedgwick,,19 - 42,Male,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,45
+2018-01-31T23:26:50.000Z,1,-1,0,1,0,0,1,0,0,Brighton,,< 18,Male,Less than high school,United States of America,English,"Less than $10,000",,en,46
+2018-02-08T15:26:01.000Z,1,-1,1,0,0,0,1,0,0,Winkworth,,43 - 60,Female,Graduate or Professional Degree,usa,english,"$100,000 - $149,999",,en,47
+2018-02-07T20:16:38.000Z,0,1,0,0,0,1,1,0,0,Meadowbrook,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,48
+2018-02-09T16:08:00.000Z,0,1,-1,0,1,0,1,0,0,Salt Springs,,> 60,Male,Some College,,English,"Less than $10,000",,en,49
+2018-02-12T13:11:08.000Z,0,0,-1,1,0,1,1,0,0,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,USA,English,"$100,000 - $149,999",,en,50
+2018-02-20T16:01:45.000Z,0,1,0,1,0,-1,0,0,0,Northside,,> 60,Female,Some College,,,"$15,000 - $24,999",,en,51
+2018-02-20T15:39:28.000Z,1,0,0,0,1,0,0,0,0,University Neighborhood,,> 60,Female,Associates Degree,,,"$50,000 - $74,999",,en,52
+2018-02-07T20:34:32.000Z,0,-1,1,1,0,0,0,0,1,University Neighborhood,,> 60,Male,Graduate or Professional Degree,,,,,en,53
+2018-02-20T15:36:41.000Z,0,1,0,1,0,0,0,0,0,Sedgwick,,19 - 42,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,54
+2018-02-02T14:25:51.000Z,1,0,0,1,0,0,1,0,0,South Campus,,19 - 42,Female,Bachelors Degree,,,"Less than $10,000",,en,55
+2018-02-14T01:05:28.000Z,0,0,0,0,0,1,0,1,0,I live outside of the City,,> 60,Female,Bachelors Degree,USA,English,"$35,000 - $49,999",,en,56
+2018-02-09T16:00:45.000Z,0,0,0,1,0,0,1,0,0,Outer Comstock,,> 60,Male,Bachelors Degree,,,"$50,000 - $74,999",,en,57
+2018-01-31T18:03:07.000Z,0,0,1,1,-1,0,1,0,0,Northside,,< 18,Female,Less than high school,Palestinian,Arabic and English,"$15,000 - $24,999",,en,58
+2018-02-15T23:19:40.000Z,1,0,1,-1,0,0,0,1,0,Outer Comstock,,43 - 60,Female,Bachelors Degree,USA,English,,,en,59
+2018-02-07T15:56:04.000Z,0,0,0,1,-1,1,1,0,0,Other,Berkeley Park,> 60,Male,Graduate or Professional Degree,USA,English,"$150,000 - $199,999",,en,60
+2018-02-20T16:28:28.000Z,1,0,1,-1,0,0,0,0,0,Southside,,19 - 42,Female,High School or GED,,,,,en,61
+2018-02-07T18:09:32.000Z,1,-1,0,0,1,0,0,1,0,Westcott,,19 - 42,Male,Bachelors Degree,USA,English,"$50,000 - $74,999",,en,62
+2018-02-07T18:53:30.000Z,0,-1,1,0,0,1,1,0,0,Sedgwick,,43 - 60,Female,Associates Degree,USA,English,"$200,000 or more",,en,63
+2018-02-15T23:59:33.000Z,1,0,1,0,0,0,0,0,1,Southside,,> 60,Female,Bachelors Degree,USA,English,,,en,64
+2018-02-20T16:00:49.000Z,0,1,1,0,0,0,0,0,0,Salt Springs,,19 - 42,Female,Some College,Usa,English,"$10,000 - $14,999",,en,65
+2018-02-20T16:06:22.000Z,1,1,0,0,0,0,0,0,0,Westcott,,43 - 60,Female,Some College,,,"$25,000 - $34,999",,en,66
+2018-02-20T15:56:03.000Z,1,1,0,0,0,-1,0,0,0,Other,Lyncourt,19 - 42,Female,Graduate or Professional Degree,,,,,en,67
+2018-02-14T21:50:48.000Z,1,0,1,0,0,0,1,0,0,Westcott,,19 - 42,Female,Bachelors Degree,United States,English,,,en,68
+2018-02-08T16:03:12.000Z,0,0,0,1,1,0,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,U.S.A,English,"$75,000 - $99,999",,en,69
+2018-02-15T16:10:51.000Z,0,0,1,0,0,1,1,0,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,,,,,en,70
+2018-02-07T18:57:19.000Z,-1,0,1,0,1,0,1,0,0,Tipp Hill,,43 - 60,Male,Bachelors Degree,,,"$100,000 - $149,999",,en,71
+2018-02-20T15:29:35.000Z,0,0,1,0,1,-1,0,0,0,Northside,,43 - 60,Male,Some College,,,"$50,000 - $74,999",,en,72
+2018-02-09T19:54:30.000Z,1,0,0,1,0,0,0,1,0,Westcott,,> 60,Female,Graduate or Professional Degree,,,,,en,73
+2018-02-01T02:39:18.000Z,0,1,1,0,0,0,1,0,0,South Valley,,19 - 42,Male,Bachelors Degree,,,"$50,000 - $74,999",,en,74
+2018-02-20T16:12:16.000Z,0,0,0,0,1,0,0,0,0,Southside,,43 - 60,Female,Some College,,,,,en,75
+2018-02-12T03:40:29.000Z,-1,1,0,1,0,0,1,0,0,I live outside of the City,,43 - 60,Female,Associates Degree,usa,english,"$25,000 - $34,999",,en,76
+2018-02-14T13:59:31.000Z,0,1,0,-1,0,1,1,0,0,Salt Springs,,> 60,Female,Associates Degree,,,,,en,77
+2018-02-09T15:24:40.000Z,1,0,0,-1,0,1,1,0,0,Westcott,,43 - 60,Female,Bachelors Degree,,,"$75,000 - $99,999",,en,78
+2018-01-31T23:46:45.000Z,1,0,0,1,0,0,1,0,0,Winkworth,,43 - 60,Male,Graduate or Professional Degree,Usa,,,,en,79
+2018-02-20T15:25:42.000Z,-1,0,1,0,1,0,0,0,0,South Valley,,> 60,Male,Some College,Usa,English,"$35,000 - $49,999",,en,80
+2018-02-07T21:04:02.000Z,1,0,0,1,0,0,1,0,0,University Neighborhood,,> 60,Female,Bachelors Degree,,,,,en,81
+2018-02-20T15:15:51.000Z,-1,1,0,1,0,0,0,0,0,Northside,,19 - 42,Male,Bachelors Degree,,,,,en,82
+2018-01-31T23:08:46.000Z,0,0,0,0,1,1,1,0,0,I live outside of the City,,43 - 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,83
+2018-02-02T14:25:38.000Z,0,-1,0,1,1,0,1,0,0,University Neighborhood,,19 - 42,Male,Some College,,,,,en,84
+2018-02-20T15:50:08.000Z,1,0,0,1,0,0,0,0,0,Westcott,,> 60,Female,Less than high school,,,"$10,000 - $14,999",,en,85
+2018-02-20T16:17:29.000Z,0,1,0,1,0,0,0,0,0,Outer Comstock,,43 - 60,Female,High School or GED,,,,,en,86
+2018-02-20T16:11:20.000Z,0,0,1,0,1,0,0,0,0,Sedgwick,,43 - 60,Female,Less than high school,,,,,en,87
+2018-02-07T18:28:18.000Z,1,0,0,0,0,1,0,1,0,Strathmore,,19 - 42,Female,Bachelors Degree,,,"$75,000 - $99,999",,en,88
+2018-02-20T15:57:45.000Z,0,1,1,0,-1,0,0,0,0,Other,library,< 18,Other,Less than high school,,,,,en,89
+2018-02-13T23:21:14.000Z,0,1,0,0,0,1,0,1,0,Westcott,,43 - 60,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,90
+2018-02-01T01:01:22.000Z,1,1,-1,0,0,0,0,1,0,Northside,,19 - 42,Female,Graduate or Professional Degree,,,,,en,91
+2018-02-07T16:21:11.000Z,0,1,0,0,0,1,0,1,0,Tipp Hill,,> 60,Female,Graduate or Professional Degree,US,english,"$35,000 - $49,999",,en,92
+2018-02-07T21:41:58.000Z,0,1,0,0,1,0,0,1,0,Outer Comstock,,> 60,Male,Bachelors Degree,,,"$25,000 - $34,999",,en,93
+2018-02-01T14:27:37.000Z,0,1,0,0,1,0,1,0,0,Franklin Square,,19 - 42,Female,Graduate or Professional Degree,USA,English,"$75,000 - $99,999",,en,94
+2018-02-15T22:27:37.000Z,0,0,1,1,0,0,0,1,0,Outer Comstock,,43 - 60,Female,Graduate or Professional Degree,,,,,en,95
+2018-02-20T15:12:36.000Z,0,0,1,0,1,-1,0,0,0,Northside,,19 - 42,Female,Some College,,,,,en,96
+2018-02-14T18:15:10.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,19 - 42,Female,Graduate or Professional Degree,,,,,en,97
+2018-02-02T13:05:41.000Z,0,0,0,1,0,1,1,0,0,Downtown,,19 - 42,Male,Graduate or Professional Degree,,,,,en,98
+2018-02-08T20:59:31.000Z,1,0,1,0,0,0,1,0,0,I live outside of the City,,43 - 60,Male,Bachelors Degree,,,,,en,99
+2018-02-10T05:22:49.000Z,1,0,0,1,0,0,1,0,0,Westcott,,19 - 42,Female,Bachelors Degree,,,"$50,000 - $74,999",,en,100
+2018-01-31T17:47:43.000Z,0,1,0,0,1,0,1,0,0,Near Westside,,< 18,Female,High School or GED,Ethiopia,English,"$35,000 - $49,999",,en,101
+2018-02-02T19:50:16.000Z,1,0,1,0,0,0,1,0,0,I live outside of the City,,43 - 60,Female,Associates Degree,,,"$35,000 - $49,999",,en,102
+2018-02-20T15:42:40.000Z,0,1,0,0,-1,1,0,0,0,Westcott,,19 - 42,Female,Some College,Usa,English,"$15,000 - $24,999",,en,103
+2018-02-07T15:35:45.000Z,1,0,0,1,0,0,1,0,0,Eastwood,,19 - 42,Male,Bachelors Degree,,,"$75,000 - $99,999",,en,104
+2018-02-20T15:22:12.000Z,1,1,-1,0,0,0,0,0,0,Strathmore,,43 - 60,Female,Associates Degree,,,,,en,105
+2018-02-16T00:01:42.000Z,0,1,0,0,-1,1,0,1,0,Southside,,19 - 42,Male,Bachelors Degree,,,"$25,000 - $34,999",,en,106
+2018-01-31T17:33:30.000Z,1,0,0,1,0,0,1,0,0,I live outside of the City,,< 18,Male,High School or GED,Murcia,American,"$200,000 or more",,en,107
+2018-01-31T17:33:32.000Z,0,0,0,1,0,1,1,0,0,Eastwood,,< 18,Male,High School or GED,America,American,"$200,000 or more",,en,108
+2018-02-07T19:41:17.000Z,1,-1,1,0,0,0,1,0,0,I live outside of the City,,19 - 42,Female,Bachelors Degree,,,"$50,000 - $74,999",,en,109
+2018-02-16T14:12:06.000Z,1,0,0,1,0,0,1,0,0,Southside,,> 60,Female,Some College,,,"$25,000 - $34,999",,en,110
+2018-02-07T17:51:17.000Z,1,0,1,0,0,0,1,0,0,University Neighborhood,,43 - 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,111
+2018-02-20T15:34:44.000Z,0,1,1,0,0,0,0,0,0,Northside,,19 - 42,Female,Some College,,,"$15,000 - $24,999",,en,112
+2018-01-31T23:52:04.000Z,1,0,1,0,0,-1,1,0,0,Far Westside,,43 - 60,Female,Graduate or Professional Degree,,,,,en,113
+2018-02-08T19:36:51.000Z,1,1,0,0,0,0,0,1,0,Salt Springs,,43 - 60,Female,Graduate or Professional Degree,US,English,"$35,000 - $49,999",,en,114
+2018-02-20T16:13:12.000Z,0,0,0,0,1,0,0,0,0,Southside,,< 18,Female,Less than high school,,,,,en,115
+2018-02-05T16:47:45.000Z,0,-1,0,1,1,0,1,0,0,I live outside of the City,,19 - 42,Male,Graduate or Professional Degree,,,,,en,116
+2018-02-08T17:37:08.000Z,0,0,1,1,-1,0,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,USA,eNGLISH,"$35,000 - $49,999",,en,117
+2018-02-14T13:49:30.000Z,1,1,0,0,0,0,1,0,0,Eastwood,,19 - 42,Female,Graduate or Professional Degree,,,,,en,118
+2018-02-07T16:06:52.000Z,0,0,0,1,0,1,1,0,0,Salt Springs,,43 - 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,119
+2018-02-14T22:47:47.000Z,0,1,-1,0,0,1,0,0,0,Westcott,,19 - 42,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,120
+2018-02-07T17:15:03.000Z,0,0,1,0,-1,1,1,0,0,Near Westside,,19 - 42,Female,Graduate or Professional Degree,,,"$15,000 - $24,999",,en,121
+2018-02-20T16:14:34.000Z,1,0,0,0,1,0,0,0,0,Southside,,< 18,Male,Less than high school,,,,,en,122
+2018-02-01T21:44:10.000Z,0,0,1,0,1,0,1,0,0,Eastwood,,43 - 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,123
+2018-02-14T20:50:57.000Z,0,0,0,1,0,1,1,0,0,Near Eastside,,43 - 60,Female,Bachelors Degree,,,"$50,000 - $74,999",,en,124
+2018-01-31T18:24:01.000Z,1,0,0,1,0,0,1,0,0,Northside,,< 18,Male,High School or GED,United States of America,English,"$35,000 - $49,999",,en,125
+2018-02-07T17:22:42.000Z,1,1,0,0,0,0,1,0,0,Strathmore,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,126
+2018-02-01T22:40:10.000Z,0,0,1,0,0,0,0,0,0,Eastwood,,43 - 60,Male,Graduate or Professional Degree,,,,,en,127
+2018-02-07T19:46:59.000Z,-1,0,1,0,0,1,0,1,0,Outer Comstock,,43 - 60,Female,Graduate or Professional Degree,,,"$15,000 - $24,999",,en,128
+2018-02-07T18:15:40.000Z,-1,1,1,0,0,0,0,1,0,Near Westside,,43 - 60,Male,Graduate or Professional Degree,,,"$35,000 - $49,999",,en,129
+2018-02-07T18:51:29.000Z,0,0,0,1,1,0,1,0,0,Eastwood,,> 60,Male,Bachelors Degree,,,"$100,000 - $149,999",,en,130
+2018-02-07T17:19:41.000Z,0,-1,0,1,0,1,0,1,0,I live outside of the City,,> 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,131
+2018-02-20T15:59:55.000Z,0,1,1,0,0,0,0,0,0,South Valley,,43 - 60,Female,Some College,Usa,English,"$50,000 - $74,999",,en,132
+2018-02-03T18:37:47.000Z,0,1,1,-1,0,0,0,1,0,Northside,,> 60,Female,Bachelors Degree,usa,english,"$75,000 - $99,999",,en,133
+2018-02-08T15:35:15.000Z,1,0,1,0,0,0,0,0,1,University Hill,,43 - 60,Female,Graduate or Professional Degree,,,"$35,000 - $49,999",,en,134
+2018-01-31T22:56:52.000Z,1,0,0,-1,1,0,1,0,0,Near Westside,,< 18,Male,High School or GED,United states,English,"Less than $10,000",,en,135
+2018-02-07T17:11:48.000Z,0,-1,1,0,1,0,0,0,1,South Valley,,43 - 60,Male,Some College,,,"$50,000 - $74,999",,en,136
+2018-02-07T16:38:44.000Z,1,0,1,0,0,0,1,0,0,Strathmore,,43 - 60,Male,Graduate or Professional Degree,,,"$150,000 - $199,999",,en,137
+2018-02-20T16:03:15.000Z,0,0,0,1,0,0,0,0,0,Other,library,< 18,Other,Less than high school,,,,,en,138
+2018-02-08T08:46:27.000Z,1,0,1,0,-1,0,1,0,0,Meadowbrook,,> 60,Female,Bachelors Degree,USA,English,"$50,000 - $74,999",,en,139
+2018-02-02T14:54:12.000Z,1,0,-1,0,0,1,1,0,0,Strathmore,,< 18,Male,Less than high school,USA,English,"Less than $10,000",,en,140
+2018-02-20T16:29:38.000Z,0,1,0,-1,1,0,0,0,0,Skunk City,,43 - 60,Female,Some College,,,"$35,000 - $49,999",,en,141
+2018-02-07T15:47:24.000Z,0,1,0,1,0,0,1,0,0,Salt Springs,,> 60,Female,Graduate or Professional Degree,USA,English,"$35,000 - $49,999",,en,142
+2018-02-03T15:09:11.000Z,0,0,1,1,0,0,1,0,0,South Valley,,43 - 60,Female,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,143
+2018-02-07T16:18:18.000Z,1,1,0,0,0,0,0,1,0,Other,Berkeley Park,> 60,Female,Bachelors Degree,USA,English,"$100,000 - $149,999",,en,144
+2018-02-09T15:03:55.000Z,1,0,0,0,0,1,0,1,0,Westcott,,43 - 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,145
+2018-02-16T00:27:51.000Z,1,0,1,0,0,0,1,0,0,Tipp Hill,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,146
+2018-02-08T17:27:34.000Z,0,0,0,0,0,1,1,0,0,Other,,19 - 42,Female,Bachelors Degree,,,,,en,147
+2018-02-07T17:30:50.000Z,1,0,-1,0,0,1,1,0,0,Westcott,,43 - 60,Female,Graduate or Professional Degree,,,"$25,000 - $34,999",,en,148
+2018-02-08T18:59:17.000Z,0,1,0,0,0,1,1,0,0,I live outside of the City,,43 - 60,Male,Graduate or Professional Degree,USA,English,"$150,000 - $199,999",,en,149
+2018-02-15T21:48:20.000Z,1,0,0,-1,0,1,0,1,0,Hawley Green,,19 - 42,Female,Associates Degree,,,"$15,000 - $24,999",,en,150
+2018-02-09T16:33:49.000Z,0,0,1,1,0,0,0,1,0,Westcott,,43 - 60,Female,Graduate or Professional Degree,,,,,en,151
+2018-02-20T16:25:58.000Z,0,1,0,0,1,0,0,0,0,Near Eastside,,> 60,Female,Graduate or Professional Degree,,,,,en,152
+2018-02-07T15:42:09.000Z,0,1,0,0,1,0,0,1,0,Sedgwick,,> 60,Female,Bachelors Degree,United States,English,"$75,000 - $99,999",,en,153
+2018-02-20T15:24:48.000Z,1,0,0,1,0,0,0,0,0,Northside,,43 - 60,Male,High School or GED,,,,,en,154
+2018-01-31T23:38:55.000Z,1,0,1,0,0,0,1,0,0,Strathmore,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,155
+2018-02-07T23:54:46.000Z,0,0,0,1,1,0,0,0,0,Elmwood,,19 - 42,Other,Bachelors Degree,,,,,en,156
+2018-02-14T19:05:53.000Z,0,0,0,1,0,1,1,0,0,Westcott,,43 - 60,Male,Graduate or Professional Degree,,,"$35,000 - $49,999",,en,157
+2018-02-12T23:16:29.000Z,0,1,0,1,0,0,1,0,0,I live outside of the City,,43 - 60,Male,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,158
+2018-02-02T14:25:43.000Z,0,0,-1,1,0,1,1,0,0,University Neighborhood,,19 - 42,Female,Some College,US,English,"Less than $10,000",,en,159
+2018-02-07T18:26:53.000Z,0,0,1,0,1,0,0,0,1,Meadowbrook,,> 60,Female,Associates Degree,,,"$50,000 - $74,999",,en,160
+2018-02-07T17:26:01.000Z,1,0,0,1,0,0,0,1,0,Northside,,43 - 60,Male,Bachelors Degree,,,"$100,000 - $149,999",,en,161
+2018-02-15T13:54:53.000Z,0,0,0,1,1,0,1,0,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,USA,English,"$75,000 - $99,999",,en,162
+2018-02-16T00:03:48.000Z,0,1,0,1,0,0,1,0,0,University Hill,,19 - 42,Female,Graduate or Professional Degree,,,"$25,000 - $34,999",,en,163
+2018-02-20T15:23:01.000Z,1,0,0,1,0,0,0,0,0,University Neighborhood,,43 - 60,Female,Bachelors Degree,,,,,en,164
+2018-02-01T21:19:46.000Z,1,1,-1,0,0,0,1,0,0,Westcott,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,165
+2018-02-12T14:41:11.000Z,1,0,-1,0,1,0,1,0,0,Outer Comstock,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,166
+2018-02-10T11:02:25.000Z,0,1,-1,1,0,0,1,0,0,Tipp Hill,,19 - 42,Female,Graduate or Professional Degree,US,English,"$75,000 - $99,999",,en,167
+2018-02-07T17:24:58.000Z,0,1,-1,1,0,0,0,1,0,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,USA,English,"$50,000 - $74,999",,en,168
+2018-02-07T20:40:47.000Z,0,0,1,1,0,0,1,0,0,Westcott,,19 - 42,Male,Graduate or Professional Degree,USA,English,"$35,000 - $49,999",,en,169
+2018-02-20T15:13:02.000Z,0,0,0,1,-1,1,0,0,0,Tipp Hill,,19 - 42,Female,Graduate or Professional Degree,,,"$35,000 - $49,999",,en,170
+2018-02-14T03:06:26.000Z,1,0,1,-1,0,0,1,0,0,Sedgwick,,> 60,Female,Bachelors Degree,,,"$50,000 - $74,999",,en,171
+2018-02-10T18:17:09.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,19 - 42,Male,Graduate or Professional Degree,US,ENGLISH,"$75,000 - $99,999",,en,172
+2018-02-20T15:41:00.000Z,1,1,0,-1,0,0,0,0,0,Northside,,19 - 42,Male,High School or GED,,,"Less than $10,000",,en,173
+2018-02-20T16:23:59.000Z,0,0,1,0,1,0,0,0,0,Southside,,> 60,Female,High School or GED,,,,,en,174
+2018-02-02T14:55:42.000Z,0,0,1,-1,0,1,0,1,0,Sedgwick,,19 - 42,Other,Less than high school,Khazakstan,Khazakstinian,"$200,000 or more",,en,175
+2018-02-20T15:16:31.000Z,-1,1,1,0,0,0,0,0,0,South Valley,,> 60,Female,Bachelors Degree,,,"$75,000 - $99,999",,en,176
+2018-02-14T15:03:46.000Z,1,0,0,-1,0,1,1,0,0,I live outside of the City,,> 60,Female,Bachelors Degree,,,,,en,177
+2018-02-07T16:58:03.000Z,0,1,0,0,1,-1,1,0,0,Strathmore,,19 - 42,Female,Associates Degree,,,"$50,000 - $74,999",,en,178
+2018-02-04T15:49:43.000Z,0,0,0,0,1,1,1,0,0,Westcott,,43 - 60,Male,Graduate or Professional Degree,,,,,en,179
+2018-02-07T15:52:40.000Z,1,-1,0,1,0,0,1,0,0,Strathmore,,43 - 60,Male,Graduate or Professional Degree,USA,English,"$100,000 - $149,999",,en,180
+2018-02-14T18:48:19.000Z,0,0,0,0,0,1,1,0,0,South Valley,,19 - 42,Female,Bachelors Degree,USA,,"$10,000 - $14,999",,en,181
+2018-02-07T21:36:57.000Z,0,1,1,0,0,0,1,0,0,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,US,english,"$200,000 or more",,en,182
+2018-02-20T15:59:14.000Z,-1,1,0,0,0,1,0,0,0,Eastwood,,19 - 42,Female,Graduate or Professional Degree,Usa,English,"$50,000 - $74,999",,en,183
+2018-01-31T18:49:21.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,> 60,Female,Some College,,,,,en,184
+2018-02-02T03:25:05.000Z,1,0,0,0,1,0,0,0,1,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,,,,,en,185
+2018-02-07T15:55:24.000Z,0,1,-1,0,0,1,1,0,0,Near Westside,,> 60,Female,Associates Degree,,,"$15,000 - $24,999",,en,186
+2018-02-14T14:37:25.000Z,0,1,0,0,0,1,0,1,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,U S,English,"$50,000 - $74,999",,en,187
+2018-02-02T20:57:05.000Z,-1,1,0,0,0,1,0,1,0,University Neighborhood,,> 60,Male,Graduate or Professional Degree,USA,,"$50,000 - $74,999",,en,188
+2018-02-20T16:12:49.000Z,0,1,0,0,1,0,0,0,0,Southwest,,19 - 42,Other,High School or GED,,,,,en,189
+2018-02-07T19:13:47.000Z,0,0,0,1,-1,1,1,0,0,Downtown,,43 - 60,Male,Graduate or Professional Degree,USA,English,"$75,000 - $99,999",,en,190
+2018-02-20T15:39:21.000Z,0,1,1,0,0,0,0,0,0,Near Westside,,19 - 42,Male,Some College,,,"$25,000 - $34,999",,en,191
+2018-02-07T16:29:44.000Z,0,0,1,0,1,0,1,0,0,I live outside of the City,,19 - 42,Female,Bachelors Degree,,,,,en,192
+2018-02-07T17:14:41.000Z,0,0,0,1,0,1,1,0,0,University Neighborhood,,> 60,Female,Bachelors Degree,USA,Eng,"$35,000 - $49,999",,en,193
+2018-02-20T15:38:53.000Z,1,0,0,0,0,1,0,0,0,Westcott,,> 60,Male,Graduate or Professional Degree,"Cook County,IL",English,"$75,000 - $99,999",,en,194
+2018-02-13T17:18:16.000Z,1,0,0,0,0,1,1,0,0,Strathmore,,> 60,Male,Bachelors Degree,USA,ENGLISH,"$50,000 - $74,999",,en,195
+2018-02-04T02:06:38.000Z,0,0,0,1,-1,1,0,1,0,Meadowbrook,,19 - 42,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,196
+2018-02-07T16:03:10.000Z,0,1,-1,0,1,0,1,0,0,Eastwood,,19 - 42,Male,Graduate or Professional Degree,USA,English,"$50,000 - $74,999",,en,197
+2018-02-16T00:03:47.000Z,1,0,1,0,-1,0,1,0,0,Eastwood,,43 - 60,Female,Some College,USA,English,"$35,000 - $49,999",,en,198
+2018-02-08T03:17:49.000Z,1,0,1,-1,0,0,1,0,0,Strathmore,,19 - 42,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,199
+2018-02-20T15:52:01.000Z,0,1,0,1,0,0,0,0,0,Westcott,,19 - 42,Female,Some College,,,"$25,000 - $34,999",,en,200
+2018-02-15T23:27:55.000Z,1,0,1,0,0,-1,1,0,0,Court Woodlawn,,43 - 60,Male,Graduate or Professional Degree,,,"$150,000 - $199,999",,en,201
+2018-02-14T05:19:54.000Z,1,0,1,-1,0,0,0,1,0,I live outside of the City,,> 60,Male,Graduate or Professional Degree,USA,English,"$75,000 - $99,999",,en,202
+2018-02-14T00:25:15.000Z,0,0,0,0,1,1,1,0,0,I live outside of the City,,> 60,Male,Graduate or Professional Degree,US,English,"$100,000 - $149,999",,en,203
+2018-02-20T15:27:08.000Z,1,0,0,1,0,0,0,0,0,Strathmore,,> 60,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,204
+2018-02-02T19:27:05.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,> 60,Female,Associates Degree,,,,,en,205
+2018-02-07T20:45:24.000Z,1,0,0,0,0,1,0,1,0,I live outside of the City,,19 - 42,Male,Bachelors Degree,,,,,en,206
+2018-02-13T01:14:15.000Z,1,1,0,0,-1,0,0,1,0,Far Westside,,43 - 60,Female,Associates Degree,,,"$100,000 - $149,999",,en,207
+2018-02-07T15:43:33.000Z,0,0,1,0,1,-1,1,0,0,Meadowbrook,,43 - 60,Male,Bachelors Degree,,,"$200,000 or more",,en,208
+2018-02-20T15:52:35.000Z,1,0,0,1,0,0,0,0,0,Westcott,,19 - 42,Female,High School or GED,,,"$15,000 - $24,999",,en,209
+2018-02-20T15:40:21.000Z,1,0,0,0,1,-1,0,0,0,Outer Comstock,,> 60,Female,Associates Degree,,,,,en,210
+2018-02-02T14:25:10.000Z,0,-1,0,1,1,0,0,1,0,University Hill,,19 - 42,Male,Some College,,,,,en,211
+2018-02-14T19:30:53.000Z,1,-1,0,1,0,0,1,0,0,Westcott,,43 - 60,Female,Graduate or Professional Degree,us,eng,"$75,000 - $99,999",,en,212
+2018-02-02T13:26:21.000Z,0,-1,1,0,0,1,1,0,0,Westcott,,43 - 60,Female,Graduate or Professional Degree,US,English,"$35,000 - $49,999",,en,213
+2018-01-31T18:01:01.000Z,0,0,1,1,0,0,1,0,0,I live outside of the City,,19 - 42,Male,Bachelors Degree,,,,,en,214
+2018-02-12T14:12:04.000Z,0,1,0,0,0,1,1,0,0,I live outside of the City,,43 - 60,Female,Some College,U.S.,english,"Less than $10,000",,en,215
+2018-02-08T00:38:42.000Z,0,-1,0,1,0,1,1,0,0,Other,,> 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,216
+2018-02-02T14:07:54.000Z,-1,0,1,0,0,1,1,0,0,Other,,19 - 42,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,217
+2018-01-31T23:37:13.000Z,0,0,1,0,0,1,0,0,1,Brighton,,43 - 60,Male,Bachelors Degree,,,,,en,218
+2018-02-13T16:26:08.000Z,1,0,0,-1,0,1,1,0,0,Salt Springs,,43 - 60,Other,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,219
+2018-02-01T14:25:30.000Z,-1,0,0,0,1,1,1,0,0,Southwest,,43 - 60,Female,Bachelors Degree,,,"$100,000 - $149,999",,en,220
+2018-02-20T15:58:26.000Z,1,0,0,1,0,0,0,0,0,South Valley,,> 60,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,221
+2018-02-20T16:27:04.000Z,0,1,1,0,0,-1,0,0,0,Southside,,43 - 60,Female,Some College,,,"$25,000 - $34,999",,en,222
+2018-02-08T13:15:44.000Z,0,1,0,0,0,1,1,0,0,Lincoln Hill,,43 - 60,Male,Graduate or Professional Degree,Usa,English,"$200,000 or more",,en,223
+2018-02-07T15:42:01.000Z,1,-1,0,1,0,0,1,0,0,Westcott,,19 - 42,Male,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,224
+2018-02-07T18:52:28.000Z,0,0,0,1,1,0,1,0,0,Meadowbrook,,19 - 42,Male,Bachelors Degree,,,,,en,225
+2018-02-20T16:02:41.000Z,0,0,1,0,1,-1,0,0,0,South Valley,,< 18,Female,High School or GED,Usa,English,,,en,226
+2018-02-08T13:32:21.000Z,0,1,0,0,1,0,1,0,0,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,US,English,"$50,000 - $74,999",,en,227
+2018-01-31T23:38:13.000Z,0,0,1,0,0,1,0,1,0,Eastwood,,19 - 42,Female,Bachelors Degree,,,"$50,000 - $74,999",,en,228
+2018-02-09T01:46:11.000Z,0,0,-1,1,0,1,1,0,0,I live outside of the City,,43 - 60,Male,Graduate or Professional Degree,,,,,en,229
+2018-02-07T20:37:23.000Z,0,0,1,0,-1,1,1,0,0,Westcott,,43 - 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,230
+2018-01-30T20:10:08.000Z,0,0,1,1,0,-1,1,0,0,Meadowbrook,,19 - 42,Female,Graduate or Professional Degree,,,,,en,231
+2018-02-20T16:25:20.000Z,0,1,0,1,0,0,0,0,0,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,232
+2018-02-07T17:24:55.000Z,1,0,1,0,0,0,1,0,0,Meadowbrook,,43 - 60,Female,Associates Degree,USA,English,"$200,000 or more",,en,233
+2018-02-08T15:42:47.000Z,0,1,0,1,0,0,0,0,1,Lincoln Hill,,19 - 42,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,234
+2018-02-20T15:45:21.000Z,1,0,1,0,0,0,0,0,0,University Neighborhood,,> 60,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,235
+2018-02-15T23:09:51.000Z,0,0,1,0,1,0,0,1,0,Westcott,,43 - 60,Male,Graduate or Professional Degree,,,,,en,236
+2018-02-14T12:14:18.000Z,0,0,0,1,0,1,1,0,0,Strathmore,,> 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,237
+2018-02-12T17:58:36.000Z,0,1,1,0,0,0,0,1,0,Salt Springs,,19 - 42,Male,Graduate or Professional Degree,,,,,en,238
+2018-02-13T23:54:48.000Z,0,0,0,0,0,1,0,0,1,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,,,,,en,239
+2018-02-01T04:49:21.000Z,-1,1,0,0,1,0,1,0,0,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,240
+2018-02-09T17:41:19.000Z,0,0,1,0,1,0,1,0,0,University Neighborhood,,43 - 60,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,241
+2018-02-01T16:48:46.000Z,-1,1,0,0,1,0,1,0,0,Franklin Square,,19 - 42,Female,Bachelors Degree,UK,,"$35,000 - $49,999",,en,242
+2018-02-07T15:42:18.000Z,1,0,0,1,0,0,0,1,0,University Hill,,> 60,Male,Graduate or Professional Degree,,,"$150,000 - $199,999",,en,243
+2018-02-07T17:32:06.000Z,0,1,1,0,0,0,1,0,0,Strathmore,,19 - 42,Female,Bachelors Degree,United States of America,English,"$100,000 - $149,999",,en,244
+2018-02-13T12:22:59.000Z,0,1,0,0,0,1,0,1,0,Northside,,> 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,245
+2018-02-13T23:31:50.000Z,0,1,0,0,0,1,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,246
+2018-01-31T23:51:13.000Z,1,1,0,0,0,-1,0,1,0,Downtown,,43 - 60,Female,Associates Degree,,,"$75,000 - $99,999",,en,247
+2018-02-13T23:12:07.000Z,0,0,0,1,0,1,1,0,0,Meadowbrook,,> 60,Male,Graduate or Professional Degree,,,,,en,248
+2018-02-07T15:47:02.000Z,1,0,0,1,0,-1,0,1,0,Salt Springs,,> 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,249
+2018-02-20T16:05:41.000Z,0,-1,1,0,1,0,0,0,0,South Valley,,43 - 60,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,250
+2018-02-16T14:06:41.000Z,0,0,0,0,1,1,1,0,0,I live outside of the City,,> 60,Female,Bachelors Degree,US,English,"$50,000 - $74,999",,en,251
+2018-01-31T23:09:55.000Z,0,1,1,0,0,-1,1,0,0,Skunk City,,43 - 60,Female,High School or GED,,,"$25,000 - $34,999",,en,252
+2018-02-08T00:48:53.000Z,1,1,-1,0,0,0,1,0,0,University Neighborhood,,> 60,Female,Graduate or Professional Degree,,,,,en,253
+2018-01-31T20:25:31.000Z,1,1,-1,0,0,0,1,0,0,Brighton,,> 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,254
+2018-02-20T15:19:05.000Z,0,0,1,-1,1,0,0,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,255
+2018-01-31T23:35:38.000Z,0,1,1,-1,0,0,1,0,0,Salt Springs,,19 - 42,Male,Some College,United States,English,"$35,000 - $49,999",,en,256
+2018-02-13T22:43:37.000Z,0,1,-1,1,0,0,0,0,1,Tipp Hill,,> 60,Male,Graduate or Professional Degree,,English,"$35,000 - $49,999",,en,257
+2018-02-20T15:52:03.000Z,0,0,1,0,0,1,0,0,0,South Valley,,43 - 60,Male,Associates Degree,,,"$75,000 - $99,999",,en,258
+2018-02-20T16:19:20.000Z,0,1,1,0,0,-1,0,0,0,Southside,,19 - 42,Female,Some College,,,,,en,259
+2018-02-07T19:18:41.000Z,-1,0,1,0,1,0,0,1,0,South Valley,,43 - 60,Male,Graduate or Professional Degree,usa,english,"$50,000 - $74,999",,en,260
+2018-02-08T22:01:21.000Z,1,1,0,0,0,0,0,1,0,Southside,,19 - 42,Female,Bachelors Degree,,,,,en,261
+2018-02-14T03:51:58.000Z,0,1,0,0,-1,1,1,0,0,I live outside of the City,,> 60,Female,Bachelors Degree,Canada,English,"$35,000 - $49,999",,en,262
+2018-02-10T17:40:14.000Z,1,0,-1,1,0,0,0,1,0,Westcott,,> 60,Female,Graduate or Professional Degree,US,Eng,"$100,000 - $149,999",,en,263
+2018-02-08T20:48:14.000Z,0,1,0,0,0,1,1,0,0,Westcott,,> 60,Female,Some College,United States,English,"Less than $10,000",,en,264
+2018-02-20T15:16:41.000Z,0,0,0,1,1,0,0,0,0,Sedgwick,,43 - 60,Female,Graduate or Professional Degree,USA,English,,,en,265
+2018-02-20T16:35:18.000Z,1,0,1,0,-1,0,0,0,0,Eastwood,,> 60,Male,Associates Degree,,,"$25,000 - $34,999",,en,266
+2018-02-20T16:13:08.000Z,0,0,1,1,0,0,0,0,0,Southwest,,< 18,Female,Less than high school,,,,,en,267
+2018-02-15T02:42:40.000Z,0,1,0,0,0,1,1,0,0,Other,far eastside,> 60,Female,Bachelors Degree,,,,,en,268
+2018-02-14T03:14:40.000Z,0,0,0,0,1,1,1,0,0,Meadowbrook,,19 - 42,Male,High School or GED,,,"$25,000 - $34,999",,en,269
+2018-02-07T21:50:31.000Z,1,0,0,1,-1,0,0,0,0,Eastwood,,> 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,270
+2018-02-08T01:49:19.000Z,0,0,1,1,0,0,1,0,0,Other,City Gate (West Onondaga),> 60,Female,Bachelors Degree,,,"$25,000 - $34,999",,en,271
+2018-02-07T23:02:35.000Z,1,0,-1,0,0,1,0,0,0,Southside,,> 60,Male,Some College,,,"$15,000 - $24,999",,en,272
+2018-02-07T16:01:22.000Z,1,1,0,0,0,0,1,0,0,Eastwood,,43 - 60,Female,Bachelors Degree,USA,English,"$100,000 - $149,999",,en,273
+2018-02-01T20:55:22.000Z,1,0,-1,1,0,0,1,0,0,Westcott,,> 60,Female,Graduate or Professional Degree,USA,English,"$15,000 - $24,999",,en,274
+2018-02-15T22:08:42.000Z,1,-1,0,0,0,1,1,0,0,Sedgwick,,19 - 42,Male,Bachelors Degree,,,"$75,000 - $99,999",,en,275
+2018-02-13T22:19:32.000Z,1,1,-1,0,0,0,1,0,0,Hawley Green,,19 - 42,Female,Bachelors Degree,Argentina,,,,en,276
+2018-02-07T16:30:10.000Z,0,0,0,1,0,1,1,0,0,University Hill,,19 - 42,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,277
+2018-02-20T16:26:28.000Z,0,1,0,0,1,0,0,0,0,University Hill,,> 60,Female,Some College,,,,,en,278
+2018-02-15T21:44:22.000Z,1,-1,0,0,0,1,1,0,0,Strathmore,,19 - 42,Female,Bachelors Degree,,,"$50,000 - $74,999",,en,279
+2018-01-31T17:52:16.000Z,0,1,0,0,-1,1,1,0,0,Westcott,,< 18,Other,Less than high school,United States,English,,,en,280
+2018-02-20T16:10:52.000Z,0,0,1,0,0,0,0,0,0,Other,library,< 18,Other,Less than high school,,,,,en,281
+2018-02-10T03:12:21.000Z,1,0,1,0,0,-1,1,0,0,Eastwood,,> 60,Female,Some College,,,"$50,000 - $74,999",,en,282
+2018-02-09T21:09:50.000Z,0,1,-1,1,0,0,1,0,0,Other,Sherman Park,19 - 42,Male,Graduate or Professional Degree,US,English,"$75,000 - $99,999",,en,283
+2018-02-07T16:06:22.000Z,0,0,0,1,0,1,0,1,0,University Hill,,43 - 60,Male,Some College,,,,,en,284
+2018-02-20T15:24:17.000Z,1,0,0,-1,1,0,0,0,0,Elmwood,,19 - 42,Male,High School or GED,,,"Less than $10,000",,en,285
+2018-02-20T16:24:28.000Z,0,1,0,1,0,0,0,0,0,Salt Springs,,43 - 60,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,286
+2018-02-14T09:09:04.000Z,0,0,0,0,1,1,0,1,0,Westcott,,> 60,Female,Some College,USA,English,"$50,000 - $74,999",,en,287
+2018-02-02T15:26:58.000Z,0,1,-1,0,0,1,1,0,0,Southwest,,> 60,Female,Graduate or Professional Degree,,,"Less than $10,000",,en,288
+2018-02-07T19:34:26.000Z,0,0,0,1,0,1,1,0,0,Meadowbrook,,19 - 42,Male,Bachelors Degree,,English,"$35,000 - $49,999",,en,289
+2018-02-20T16:03:44.000Z,0,0,0,1,-1,1,0,0,0,Meadowbrook,,> 60,Female,Associates Degree,,,,,en,290
+2018-02-15T22:23:12.000Z,0,0,1,0,1,-1,1,0,0,Eastwood,,19 - 42,Male,Some College,USA,English,"$50,000 - $74,999",,en,291
+2018-02-08T20:57:26.000Z,1,0,0,1,0,0,0,0,1,Eastwood,,19 - 42,Female,Bachelors Degree,USA,English,"$15,000 - $24,999",,en,292
+2018-02-06T20:07:42.000Z,0,0,1,-1,1,0,0,0,0,Tipp Hill,,43 - 60,Female,Bachelors Degree,USA,English,"$100,000 - $149,999",,en,293
+2018-02-07T17:25:18.000Z,0,-1,1,0,1,0,1,0,0,Sedgwick,,19 - 42,Male,Bachelors Degree,,,,,en,294
+2018-02-02T13:07:42.000Z,1,0,-1,0,0,1,1,0,0,Sedgwick,,> 60,Male,Bachelors Degree,,,,,en,295
+2018-02-07T21:50:00.000Z,0,1,1,0,0,-1,1,0,0,Strathmore,,19 - 42,Male,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,296
+2018-02-07T18:23:13.000Z,1,-1,0,0,0,1,1,0,0,Sedgwick,,43 - 60,Female,Graduate or Professional Degree,,,"$150,000 - $199,999",,en,297
+2018-02-20T16:15:15.000Z,0,0,1,0,1,0,0,0,0,Southside,,< 18,Male,Less than high school,,,,,en,298
+2018-02-20T16:05:20.000Z,0,1,0,1,0,0,0,0,0,Westcott,,19 - 42,Female,Less than high school,,,"Less than $10,000",,en,299
+2018-02-07T18:17:27.000Z,0,1,0,1,0,-1,1,0,0,South Valley,,19 - 42,Female,Graduate or Professional Degree,US,English,"$35,000 - $49,999",,en,300
+2018-02-07T21:16:47.000Z,0,0,1,0,-1,1,1,0,0,South Valley,,> 60,Female,Associates Degree,USA,English,"$50,000 - $74,999",,en,301
+2018-02-20T15:53:19.000Z,1,1,0,0,0,0,0,0,0,Westcott,,19 - 42,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,302
+2018-02-14T18:14:44.000Z,0,0,0,0,0,1,0,1,0,I live outside of the City,,> 60,Male,Graduate or Professional Degree,,,"$200,000 or more",,en,303
+2018-02-07T17:54:15.000Z,1,0,-1,1,0,0,0,1,0,Westcott,,> 60,Male,Graduate or Professional Degree,US,English,"$75,000 - $99,999",,en,304
+2018-02-07T20:08:12.000Z,1,-1,1,0,0,0,1,0,0,South Valley,,> 60,Male,Graduate or Professional Degree,US,English,"$100,000 - $149,999",,en,305
+2018-01-31T17:47:37.000Z,1,0,-1,0,1,0,0,1,0,Meadowbrook,,< 18,Female,Less than high school,Middle east,Arabic,,,en,306
+2018-02-20T15:48:18.000Z,1,0,1,0,0,0,0,0,0,University Neighborhood,,> 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,307
+2018-02-10T01:08:11.000Z,1,0,1,0,0,-1,1,0,0,Near Westside,,19 - 42,Female,Bachelors Degree,,,"Less than $10,000",,en,308
+2018-02-12T17:50:34.000Z,1,0,0,0,1,0,1,0,0,Strathmore,,19 - 42,Male,Bachelors Degree,,,"$50,000 - $74,999",,en,309
+2018-02-12T13:15:22.000Z,1,0,0,1,0,0,0,1,0,Meadowbrook,,43 - 60,Male,Graduate or Professional Degree,U.S.,English,"$25,000 - $34,999",,en,310
+2018-02-20T15:36:16.000Z,-1,0,0,0,1,1,0,0,0,Westcott,,> 60,Male,Some College,Usa,English,"$50,000 - $74,999",,en,311
+2018-02-05T16:53:20.000Z,1,0,0,1,0,0,1,0,0,University Neighborhood,,19 - 42,Female,Some College,,,"$35,000 - $49,999",,en,312
+2018-02-13T21:51:14.000Z,0,0,0,1,0,1,0,1,0,I live outside of the City,,> 60,Male,Bachelors Degree,,,"$75,000 - $99,999",,en,313
+2018-02-08T18:38:25.000Z,0,1,0,0,0,1,1,0,0,I live outside of the City,,43 - 60,Female,Associates Degree,,,,,en,314
+2018-02-15T00:29:41.000Z,1,0,0,0,0,1,1,0,0,I live outside of the City,,> 60,Male,Bachelors Degree,,,"$25,000 - $34,999",,en,315
+2018-01-31T18:25:43.000Z,0,-1,0,0,1,1,0,1,0,Other,,< 18,Female,High School or GED,United States of America,English,"Less than $10,000",,en,316
+2018-02-13T21:45:41.000Z,0,1,-1,0,0,1,1,0,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,USA,English,"$50,000 - $74,999",,en,317
+2018-01-31T23:43:23.000Z,1,0,0,1,0,-1,1,0,0,Park Ave,,19 - 42,Male,Bachelors Degree,USA,English,"$35,000 - $49,999",,en,318
+2018-02-15T00:26:02.000Z,0,0,0,1,0,1,1,0,0,Other,,19 - 42,Female,Some College,United States,,"Less than $10,000",,en,319
+2018-02-07T16:35:43.000Z,1,0,0,1,-1,0,1,0,0,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,USA,English,"$100,000 - $149,999",,en,320
+2018-02-14T15:44:42.000Z,0,0,-1,1,0,1,0,1,0,Westcott,,19 - 42,Female,Bachelors Degree,US,English,"$15,000 - $24,999",,en,321
+2018-02-20T15:23:34.000Z,0,1,0,0,0,0,0,0,0,Other,Library,< 18,Other,Less than high school,,,,,en,322
+2018-02-07T15:41:08.000Z,1,1,0,0,0,0,0,1,0,Westcott,,19 - 42,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,323
+2018-02-02T14:01:06.000Z,0,-1,1,0,1,0,1,0,0,Westcott,,19 - 42,Other,Bachelors Degree,,,"Less than $10,000",,en,324
+2018-02-15T23:05:45.000Z,1,0,1,0,0,-1,1,0,0,Downtown,,19 - 42,Male,Bachelors Degree,USA,English,"$15,000 - $24,999",,en,325
+2018-02-13T22:45:58.000Z,-1,0,0,1,0,1,1,0,0,I live outside of the City,,43 - 60,Male,Graduate or Professional Degree,,,"$200,000 or more",,en,326
+2018-01-31T23:41:39.000Z,1,0,1,0,0,-1,1,0,0,Northside,,43 - 60,Female,High School or GED,,,"$50,000 - $74,999",,en,327
+2018-01-31T17:50:38.000Z,1,1,0,0,0,0,1,0,0,Near Eastside,,< 18,Male,Less than high school,,,,,en,328
+2018-02-20T16:22:32.000Z,0,1,0,0,1,-1,0,0,0,Near Eastside,,43 - 60,Male,Bachelors Degree,,,,,en,329
+2018-02-07T16:59:11.000Z,1,0,1,0,0,0,1,0,0,Strathmore,,19 - 42,Female,Bachelors Degree,,,"$150,000 - $199,999",,en,330
+2018-02-07T16:00:58.000Z,0,1,0,0,0,1,1,0,0,University Hill,,43 - 60,Male,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,331
+2018-02-15T23:44:42.000Z,0,-1,1,0,0,1,1,0,0,Sedgwick,,43 - 60,Male,Bachelors Degree,,,"$35,000 - $49,999",,en,332
+2018-02-20T15:51:02.000Z,1,0,0,1,0,0,0,0,0,South Valley,,> 60,Female,Some College,,,"$25,000 - $34,999",,en,333
+2018-02-07T17:36:22.000Z,1,0,0,1,0,0,1,0,0,Meadowbrook,,19 - 42,Female,Bachelors Degree,,,,,en,334
+2018-02-10T16:05:45.000Z,1,0,1,0,0,-1,1,0,0,Park Ave,,19 - 42,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,335
+2018-02-15T02:55:57.000Z,0,0,0,1,0,1,0,1,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,336
+2018-01-31T23:47:25.000Z,0,1,0,0,1,0,0,1,0,South Valley,,43 - 60,Female,Graduate or Professional Degree,Puerto Rico,,"$200,000 or more",,en,337
+2018-02-20T16:21:23.000Z,0,1,0,0,1,0,0,0,0,Southwest,,43 - 60,Male,Some College,,,,,en,338
+2018-02-12T20:27:51.000Z,1,1,0,0,0,0,1,0,0,Tipp Hill,,19 - 42,Female,Graduate or Professional Degree,USA,English,"$50,000 - $74,999",,en,339
+2018-02-08T17:35:51.000Z,0,0,0,0,0,1,1,0,0,I live outside of the City,,19 - 42,Female,Associates Degree,,,"$50,000 - $74,999",,en,340
+2018-02-14T21:40:28.000Z,1,0,0,0,0,1,1,0,0,Westcott,,> 60,Male,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,341
+2018-02-11T18:21:06.000Z,0,1,1,0,0,0,1,0,0,North Valley,,43 - 60,Female,Some College,,,"$100,000 - $149,999",,en,342
+2018-02-20T16:34:10.000Z,1,1,-1,0,0,0,0,0,0,Downtown,,19 - 42,Male,Some College,,Kryptonian,"$200,000 or more",,en,343
+2018-02-07T16:34:55.000Z,1,0,0,0,1,0,1,0,0,Meadowbrook,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,344
+2018-02-16T00:26:28.000Z,0,-1,0,1,0,1,1,0,0,Park Ave,,19 - 42,Male,Some College,,,"$35,000 - $49,999",,en,345
+2018-02-07T17:43:35.000Z,-1,1,0,0,0,1,0,0,1,Downtown,,19 - 42,Male,Bachelors Degree,,,"$35,000 - $49,999",,en,346
+2018-02-07T18:34:08.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,,,,,en,347
+2018-02-08T03:41:07.000Z,1,-1,1,0,0,0,1,0,0,Strathmore,,19 - 42,Female,Associates Degree,,,"$50,000 - $74,999",,en,348
+2018-02-02T15:17:00.000Z,-1,0,0,1,0,1,1,0,0,Meadowbrook,,43 - 60,Male,Graduate or Professional Degree,United States,English,"$75,000 - $99,999",,en,349
+2018-02-20T15:43:30.000Z,1,0,0,1,0,0,0,0,0,Westcott,,> 60,Female,Graduate or Professional Degree,Usa,English,,,en,350
+2018-02-09T18:29:07.000Z,0,1,0,0,0,1,0,1,0,Meadowbrook,,> 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,351
+2018-02-02T12:51:11.000Z,0,0,0,1,-1,1,0,0,1,Downtown,,19 - 42,Female,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,352
+2018-02-10T17:19:27.000Z,0,0,1,0,1,0,1,0,0,University Hill,,43 - 60,Female,Graduate or Professional Degree,USA,English,"$25,000 - $34,999",,en,353
+2018-02-12T23:08:49.000Z,0,1,0,1,0,0,1,0,0,I live outside of the City,,19 - 42,Female,Graduate or Professional Degree,,,,,en,354
+2018-02-08T14:15:52.000Z,0,0,0,1,0,1,0,0,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,USA,English,"$75,000 - $99,999",,en,355
+2018-02-08T10:41:08.000Z,-1,0,0,1,0,1,1,0,0,South Valley,,> 60,Male,Associates Degree,United States,English,"$50,000 - $74,999",,en,356
+2018-02-01T17:52:00.000Z,1,0,-1,1,0,0,1,0,0,University Neighborhood,,19 - 42,Female,Some College,United States,English,"$35,000 - $49,999",,en,357
+2018-02-14T23:17:22.000Z,0,0,0,1,-1,1,1,0,0,Westcott,,19 - 42,Male,Graduate or Professional Degree,Germany,English,"$100,000 - $149,999",,en,358
+2018-02-07T19:42:37.000Z,1,0,1,0,0,0,1,0,0,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,U.K.,,"$50,000 - $74,999",,en,359
+2018-02-12T19:18:36.000Z,1,1,0,0,0,0,0,1,0,I live outside of the City,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,360
+2018-02-07T16:04:34.000Z,1,0,0,0,0,0,1,0,0,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,US,English,"$25,000 - $34,999",,en,361
+2018-02-14T14:29:49.000Z,0,-1,0,1,0,1,0,1,0,Meadowbrook,,> 60,Male,Graduate or Professional Degree,,,"$150,000 - $199,999",,en,362
+2018-02-14T14:26:20.000Z,0,0,1,0,0,1,1,0,0,North Valley,,> 60,Male,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,363
+2018-02-07T15:40:48.000Z,1,0,0,0,1,-1,1,0,0,Meadowbrook,,19 - 42,Male,Graduate or Professional Degree,,,"$200,000 or more",,en,364
+2018-02-13T22:43:11.000Z,0,1,0,0,0,1,1,0,0,I live outside of the City,,43 - 60,Female,High School or GED,US,English,,,en,365
+2018-02-16T00:10:51.000Z,0,1,1,0,0,-1,1,0,0,South Valley,,43 - 60,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,366
+2018-02-08T00:54:50.000Z,0,0,0,1,1,0,1,0,0,Strathmore,,43 - 60,Female,Some College,,,"$50,000 - $74,999",,en,367
+2018-02-08T17:33:46.000Z,0,0,1,0,1,-1,1,0,0,I live outside of the City,,19 - 42,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,368
+2018-02-11T23:20:15.000Z,0,0,1,0,0,1,1,0,0,I live outside of the City,,43 - 60,Female,Some College,,,,,en,369
+2018-02-20T15:37:20.000Z,1,1,0,0,0,0,0,0,0,Lincoln Hill,,19 - 42,Female,Associates Degree,,,"$10,000 - $14,999",,en,370
+2018-02-15T23:18:17.000Z,1,0,0,0,-1,1,0,1,0,Outer Comstock,,19 - 42,Male,High School or GED,'Merica,Enflish,"Less than $10,000",,en,371
+2018-02-07T20:30:43.000Z,0,1,0,0,1,0,0,1,0,Westcott,,> 60,Male,Graduate or Professional Degree,US,English,"$25,000 - $34,999",,en,372
+2018-02-14T21:03:18.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,usa,english,"$200,000 or more",,en,373
+2018-02-07T16:14:08.000Z,1,-1,0,0,1,0,0,1,0,Outer Comstock,,> 60,Male,Graduate or Professional Degree,,,,,en,374
+2018-02-09T18:09:20.000Z,1,0,0,1,0,-1,1,0,0,I live outside of the City,,19 - 42,Male,Graduate or Professional Degree,,,"$150,000 - $199,999",,en,375
+2018-02-15T22:44:34.000Z,0,0,1,0,0,0,1,0,0,Sedgwick,,43 - 60,Female,Some College,,,"$50,000 - $74,999",,en,376
+2018-01-31T18:10:50.000Z,1,1,0,0,-1,0,1,0,0,Lincoln Hill,,< 18,Female,Less than high school,Cananda,English,,,en,377
+2018-02-20T16:13:45.000Z,0,0,0,0,1,0,0,0,0,Southside,,< 18,Female,Less than high school,,,,,en,378
+2018-02-14T16:21:28.000Z,0,0,-1,1,0,1,1,0,0,I live outside of the City,,> 60,Male,Graduate or Professional Degree,,,"$200,000 or more",,en,379
+2018-02-01T18:32:08.000Z,0,1,1,0,0,0,1,0,0,South Valley,,43 - 60,Female,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,380
+2018-02-14T23:06:54.000Z,0,1,0,1,0,0,0,1,0,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,381
+2018-02-07T21:22:47.000Z,0,0,1,0,0,0,0,0,1,Sedgwick,,> 60,Female,Graduate or Professional Degree,,,,,en,382
+2018-02-15T00:54:54.000Z,0,0,0,0,1,1,0,1,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,,,,,en,383
+2018-02-07T16:09:33.000Z,1,0,0,0,1,0,1,0,0,Tipp Hill,,19 - 42,Female,Graduate or Professional Degree,US,English,"$35,000 - $49,999",,en,384
+2018-02-07T17:34:33.000Z,1,0,0,1,0,-1,1,0,0,South Valley,,> 60,Female,Some College,,,"$75,000 - $99,999",,en,385
+2018-01-31T23:53:00.000Z,0,1,1,0,0,0,1,0,0,Westcott,,19 - 42,Female,Graduate or Professional Degree,,,"Less than $10,000",,en,386
+2018-02-09T17:36:51.000Z,0,-1,1,0,0,1,1,0,0,I live outside of the City,,19 - 42,Male,Bachelors Degree,,,"$50,000 - $74,999",,en,387
+2018-02-12T20:40:08.000Z,1,0,0,0,0,1,0,1,0,Hawley Green,,19 - 42,Male,Bachelors Degree,USA,English,"$35,000 - $49,999",,en,388
+2018-01-31T23:26:16.000Z,1,0,0,1,0,-1,1,0,0,Meadowbrook,,43 - 60,Female,Graduate or Professional Degree,,,,,en,389
+2018-01-31T23:26:32.000Z,1,1,0,0,0,0,1,0,0,Brighton,,19 - 42,Female,Associates Degree,,,"$15,000 - $24,999",,en,390
+2018-02-07T18:59:33.000Z,0,0,1,0,1,0,1,0,0,Eastwood,,19 - 42,Female,Some College,,,,,en,391
+2018-02-06T15:06:29.000Z,0,1,0,1,0,0,0,1,0,University Neighborhood,,19 - 42,Female,Bachelors Degree,USA,English,"$75,000 - $99,999",,en,392
+2018-02-07T13:55:17.000Z,0,1,0,0,0,1,1,0,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,US,English,"$50,000 - $74,999",,en,393
+2018-02-13T23:37:23.000Z,1,0,0,1,0,0,1,0,0,Meadowbrook,,> 60,Female,Graduate or Professional Degree,,,,,en,394
+2018-02-13T23:40:19.000Z,0,0,0,0,1,1,1,0,0,I live outside of the City,,> 60,Male,Some College,,,"$35,000 - $49,999",,en,395
+2018-02-16T04:29:11.000Z,1,0,0,-1,1,0,0,1,0,Other,Lower Strathmore/South Ave,> 60,Male,Bachelors Degree,,,"$50,000 - $74,999",,en,396
+2018-02-07T16:40:10.000Z,1,0,0,1,0,0,0,1,0,University Neighborhood,,> 60,Female,Bachelors Degree,,,"$75,000 - $99,999",,en,397
+2018-02-15T05:05:47.000Z,0,0,0,0,0,1,0,0,0,Eastwood,,> 60,Male,Graduate or Professional Degree,USA,English,,,en,398
+2018-02-07T04:33:59.000Z,0,1,0,0,1,-1,0,1,0,I live outside of the City,,19 - 42,Female,Bachelors Degree,,,"$50,000 - $74,999",,en,399
+2018-02-20T15:57:58.000Z,0,1,0,0,0,1,0,0,0,Westcott,,19 - 42,Male,Graduate or Professional Degree,,,"$25,000 - $34,999",,en,400
+2018-02-07T18:42:35.000Z,0,1,-1,1,0,0,1,0,0,I live outside of the City,,43 - 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,401
+2018-02-20T15:20:10.000Z,-1,0,0,0,1,1,0,0,0,Other,Library,< 18,Other,Less than high school,,,,,en,402
+2018-02-14T11:21:37.000Z,0,1,0,-1,0,1,0,1,0,Strathmore,,> 60,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,403
+2018-02-07T16:06:13.000Z,0,0,1,-1,0,1,1,0,0,I live outside of the City,,43 - 60,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,404
+2018-02-02T14:25:34.000Z,0,0,1,1,-1,0,1,0,0,South Campus,,19 - 42,Female,Some College,USA,English,"Less than $10,000",,en,405
+2018-02-03T10:46:32.000Z,1,1,0,0,0,-1,1,0,0,Westcott,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,406
+2018-01-31T23:23:50.000Z,1,0,1,-1,0,0,0,1,0,University Neighborhood,,43 - 60,Male,Graduate or Professional Degree,,,,,en,407
+2018-02-07T18:24:02.000Z,1,0,0,0,0,1,1,0,0,Meadowbrook,,> 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,408
+2018-02-07T21:26:44.000Z,0,0,-1,1,0,1,1,0,0,Elmwood,,43 - 60,Male,Bachelors Degree,USA,English,"$100,000 - $149,999",,en,409
+2018-02-20T15:45:40.000Z,1,0,0,0,0,1,0,0,0,Near Eastside,,43 - 60,Other,Graduate or Professional Degree,Usa,English,"Less than $10,000",,en,410
+2018-02-16T01:57:07.000Z,0,0,1,0,1,0,1,0,0,Strathmore,,19 - 42,Male,Some College,United States,English,"$10,000 - $14,999",,en,411
+2018-02-07T18:01:06.000Z,0,1,0,1,0,0,1,0,0,Westcott,,19 - 42,Female,Graduate or Professional Degree,USA,English,"$50,000 - $74,999",,en,412
+2018-02-16T17:32:58.000Z,1,0,0,1,0,0,1,0,0,Downtown,,19 - 42,Female,Graduate or Professional Degree,,,,,en,413
+2018-01-31T23:52:55.000Z,0,1,0,1,0,0,1,0,0,Westcott,,19 - 42,Female,Graduate or Professional Degree,USA.,,,,en,414
+2018-02-12T21:04:42.000Z,0,0,0,1,0,1,1,0,0,Franklin Square,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,415
+2018-02-20T15:35:00.000Z,1,0,0,1,-1,0,0,0,0,University Hill,,43 - 60,Male,Graduate or Professional Degree,,,,,en,416
+2018-02-01T18:53:04.000Z,0,1,1,0,0,0,0,1,0,I live outside of the City,,19 - 42,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,417
+2018-02-07T20:48:57.000Z,0,0,-1,1,1,0,1,0,0,University Neighborhood,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,418
+2018-01-31T23:27:13.000Z,0,1,0,0,1,0,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,,,"$200,000 or more",,en,419
+2018-02-14T00:21:01.000Z,0,0,1,0,0,1,1,0,0,I live outside of the City,,43 - 60,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,420
+2018-02-14T12:55:22.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,19 - 42,Male,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,421
+2018-01-31T23:43:18.000Z,-1,0,0,1,1,0,1,0,0,Northside,,19 - 42,Male,Graduate or Professional Degree,,,,,en,422
+2018-02-15T23:06:46.000Z,1,0,0,0,0,0,1,0,0,Eastwood,,43 - 60,Female,Bachelors Degree,,English,"$50,000 - $74,999",,en,423
+2018-02-14T16:38:59.000Z,0,1,1,-1,0,0,1,0,0,Park Ave,,19 - 42,Female,Graduate or Professional Degree,USA,English/Spanish,"$50,000 - $74,999",,en,424
+2018-02-14T02:25:12.000Z,0,0,0,1,-1,1,1,0,0,Downtown,,43 - 60,Male,Graduate or Professional Degree,USA,,"$75,000 - $99,999",,en,425
+2018-02-20T16:22:56.000Z,0,1,0,0,1,0,0,0,0,Northside,,19 - 42,Male,High School or GED,,,,,en,426
+2018-02-20T15:42:36.000Z,0,0,1,0,1,0,0,0,0,Other,Library,< 18,Other,Less than high school,,,,,en,427
+2018-02-12T19:42:55.000Z,0,0,0,0,0,1,0,1,0,Eastwood,,19 - 42,Male,Some College,,,"$15,000 - $24,999",,en,428
+2018-02-20T15:09:21.000Z,0,0,0,1,-1,1,0,0,0,Other,library,< 18,Other,Less than high school,,,,,en,429
+2018-02-08T01:08:27.000Z,1,1,0,-1,0,0,1,0,0,Near Westside,,> 60,Male,Bachelors Degree,,,"$50,000 - $74,999",,en,430
+2018-01-31T17:50:04.000Z,0,1,0,0,0,1,1,0,0,Westcott,,< 18,Female,Less than high school,United States,English,,,en,431
+2018-02-12T12:56:26.000Z,1,0,0,0,-1,1,0,1,0,Hawley Green,,19 - 42,Male,Graduate or Professional Degree,,,"$25,000 - $34,999",,en,432
+2018-02-20T15:40:49.000Z,0,0,-1,1,0,1,0,0,0,Tipp Hill,,43 - 60,Male,Associates Degree,,,"Less than $10,000",,en,433
+2018-02-07T15:44:09.000Z,0,1,1,0,0,0,1,0,0,North Valley,,43 - 60,Female,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,434
+2018-02-14T19:10:57.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,> 60,Male,Bachelors Degree,usa,english,"$75,000 - $99,999",,en,435
+2018-02-02T14:26:56.000Z,1,1,-1,0,0,0,0,1,0,Other,,19 - 42,Female,Some College,,,,,en,436
+2018-02-20T15:28:53.000Z,1,1,0,0,0,0,0,0,0,Winkworth,,> 60,Female,Bachelors Degree,,,,,en,437
+2018-02-20T16:16:51.000Z,0,1,0,0,1,0,0,0,0,Near Eastside,,> 60,Female,Some College,,,,,en,438
+2018-02-20T15:24:03.000Z,0,1,0,1,0,0,0,0,0,Northside,,43 - 60,Male,Some College,,,"Less than $10,000",,en,439
+2018-02-02T14:26:45.000Z,-1,1,0,0,0,1,1,0,0,University Neighborhood,,19 - 42,Male,Bachelors Degree,US,English,,,en,440
+2018-02-07T16:54:27.000Z,0,0,1,1,0,0,1,0,0,University Neighborhood,,43 - 60,Male,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,441
+2018-01-31T23:34:47.000Z,1,1,0,0,0,0,1,0,0,Eastwood,,> 60,Female,Bachelors Degree,,,"$75,000 - $99,999",,en,442
+2018-01-31T23:41:06.000Z,0,1,0,1,0,0,1,0,0,I live outside of the City,,43 - 60,Male,Graduate or Professional Degree,,,"$150,000 - $199,999",,en,443
+2018-02-15T22:59:12.000Z,1,-1,1,0,0,0,1,0,0,Meadowbrook,,19 - 42,Male,Associates Degree,US,English,"$75,000 - $99,999",,en,444
+2018-01-31T23:40:44.000Z,-1,1,1,0,0,0,1,0,0,Northside,,43 - 60,Female,High School or GED,,,,,en,445
+2018-02-12T01:45:15.000Z,0,-1,0,1,1,0,1,0,0,North Valley,,> 60,Male,Bachelors Degree,United States,English,"$100,000 - $149,999",,en,446
+2018-02-20T15:17:14.000Z,0,1,-1,1,0,0,0,0,0,Other,Library,< 18,Other,Less than high school,,,,,en,447
+2018-02-07T15:46:55.000Z,0,-1,1,0,1,0,1,0,0,Winkworth,,19 - 42,Female,Graduate or Professional Degree,,,,,en,448
+2018-01-31T23:16:15.000Z,0,1,0,0,1,0,1,0,0,Strathmore,,19 - 42,Female,Graduate or Professional Degree,,,,,en,449
+2018-02-07T17:46:34.000Z,0,0,0,0,0,1,0,1,0,Westcott,,19 - 42,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,450
+2018-02-11T01:12:02.000Z,1,0,0,0,0,0,1,0,0,Far Westside,,19 - 42,Other,Some College,,,"$25,000 - $34,999",,en,451
+2018-02-08T03:32:16.000Z,1,0,1,-1,0,0,1,0,0,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,,,,,en,452
+2018-02-20T16:30:03.000Z,0,1,0,0,0,0,0,0,0,Other,Library,< 18,Other,Less than high school,,,,,en,453
+2018-02-14T03:09:39.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,> 60,Female,High School or GED,USA,English,"$50,000 - $74,999",,en,454
+2018-01-31T18:15:00.000Z,1,0,0,1,0,0,1,0,0,South Valley,,< 18,Female,Less than high school,,,,,en,455
+2018-02-15T23:19:08.000Z,0,-1,1,0,1,0,1,0,0,Northside,,> 60,Female,Some College,,,"$35,000 - $49,999",,en,456
+2018-02-13T22:54:58.000Z,0,0,0,0,0,1,1,0,0,I live outside of the City,,19 - 42,Male,Bachelors Degree,,,"$50,000 - $74,999",,en,457
+2018-02-20T15:18:01.000Z,0,1,1,0,0,0,0,0,0,Near Westside,,19 - 42,Female,Less than high school,,,"Less than $10,000",,en,458
+2018-02-11T16:36:04.000Z,0,1,1,0,0,0,1,0,0,University Hill,,> 60,Female,Graduate or Professional Degree,,,,,en,459
+2018-02-20T16:16:22.000Z,0,1,0,0,1,0,0,0,0,Salt Springs,,43 - 60,Female,Bachelors Degree,,,,,en,460
+2018-02-15T01:19:20.000Z,0,0,0,1,0,1,0,0,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,,,,,en,461
+2018-02-07T22:28:56.000Z,1,-1,0,1,0,0,1,0,0,Meadowbrook,,> 60,Female,Bachelors Degree,USA,English,,,en,462
+2018-02-14T02:03:47.000Z,0,0,-1,1,0,1,1,0,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,,,,,en,463
+2018-02-12T17:36:27.000Z,1,1,0,0,0,0,1,0,0,Meadowbrook,,43 - 60,Female,Graduate or Professional Degree,USA,English,"$50,000 - $74,999",,en,464
+2018-02-20T15:33:35.000Z,0,1,0,1,0,0,0,0,0,Other,Library,< 18,Other,Less than high school,,,,,en,465
+2018-02-16T17:08:26.000Z,1,0,1,0,0,0,0,1,0,Eastwood,,19 - 42,Female,Associates Degree,,,"$75,000 - $99,999",,en,466
+2018-02-09T17:06:52.000Z,0,0,1,0,0,1,1,0,0,Other,,19 - 42,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,467
+2018-02-07T16:01:31.000Z,0,0,1,0,0,1,1,0,0,I live outside of the City,,> 60,Male,Graduate or Professional Degree,,,"$150,000 - $199,999",,en,468
+2018-02-20T15:58:49.000Z,0,1,0,0,0,1,0,0,0,Meadowbrook,,> 60,Male,Graduate or Professional Degree,,,"$25,000 - $34,999",,en,469
+2018-02-08T14:47:45.000Z,0,0,1,-1,0,1,1,0,0,Far Westside,,43 - 60,Male,Associates Degree,,,"$50,000 - $74,999",,en,470
+2018-02-20T15:44:20.000Z,1,0,-1,1,0,0,0,0,0,University Neighborhood,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,471
+2018-02-20T15:31:04.000Z,0,1,1,0,-1,0,0,0,0,Near Westside,,43 - 60,Female,Less than high school,,,"Less than $10,000",,en,472
+2018-02-20T15:18:41.000Z,0,1,1,0,0,0,0,0,0,Near Westside,,19 - 42,Female,High School or GED,,,"$10,000 - $14,999",,en,473
+2018-02-07T16:39:19.000Z,0,-1,1,0,1,0,1,0,0,Strathmore,,19 - 42,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,474
+2018-02-15T21:29:40.000Z,1,0,0,0,1,-1,0,0,1,Tipp Hill,,19 - 42,Female,Bachelors Degree,,,"$25,000 - $34,999",,en,475
+2018-02-07T17:16:40.000Z,1,1,0,-1,0,0,0,1,0,Strathmore,,43 - 60,Female,Graduate or Professional Degree,US,English,"$100,000 - $149,999",,en,476
+2018-02-20T15:13:36.000Z,1,1,0,0,0,0,0,0,0,Lincoln Hill,,43 - 60,Female,Graduate or Professional Degree,USA,English,"$75,000 - $99,999",,en,477
+2018-02-20T15:14:02.000Z,1,0,1,0,0,0,0,0,0,Other,Library,19 - 42,Female,Associates Degree,,,"$15,000 - $24,999",,en,478
+2018-02-20T16:31:26.000Z,0,0,0,1,-1,1,0,0,0,South Valley,,19 - 42,Male,Associates Degree,,,,,en,479
+2018-01-31T23:41:59.000Z,1,0,0,1,0,-1,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,,,,,en,480
+2018-02-07T15:40:12.000Z,0,0,1,0,1,0,1,0,0,I live outside of the City,,19 - 42,Female,Graduate or Professional Degree,,,,,en,481
+2018-02-06T14:02:20.000Z,0,0,0,1,0,1,1,0,0,Northside,,19 - 42,Male,Some College,,,,,en,482
+2018-02-15T23:40:48.000Z,0,0,1,0,0,1,1,0,0,Park Ave,,19 - 42,Female,Bachelors Degree,,,"$75,000 - $99,999",,en,483
+2018-02-01T17:44:11.000Z,0,1,0,1,0,0,1,0,0,I live outside of the City,,19 - 42,Female,Bachelors Degree,United States,,"$35,000 - $49,999",,en,484
+2018-02-08T01:07:16.000Z,1,-1,0,0,0,1,0,0,1,Westcott,,> 60,Male,Bachelors Degree,,,"$75,000 - $99,999",,en,485
+2018-02-20T15:47:18.000Z,0,-1,1,0,1,0,0,0,0,Other,Library,< 18,Other,Less than high school,,,,,en,486
+2018-02-15T22:02:43.000Z,1,0,0,1,0,-1,0,1,0,Eastwood,,43 - 60,Male,Graduate or Professional Degree,USA,English,"$150,000 - $199,999",,en,487
+2018-02-07T18:47:33.000Z,0,0,0,-1,1,1,1,0,0,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,,,,,en,488
+2018-02-20T15:35:33.000Z,0,0,0,1,-1,1,0,0,0,University Hill,,< 18,Female,Less than high school,,,,,en,489
+2018-02-20T15:31:33.000Z,0,0,1,1,0,0,0,0,0,Near Westside,,> 60,Female,Some College,,,,,en,490
+2018-02-07T17:35:03.000Z,1,0,0,1,0,0,1,0,0,University Hill,,> 60,Male,Graduate or Professional Degree,US,English,,,en,491
+2018-02-16T09:16:20.000Z,0,0,0,1,1,-1,1,0,0,Strathmore,,19 - 42,Male,Some College,,,"$35,000 - $49,999",,en,492
+2018-02-07T19:48:55.000Z,1,1,0,0,0,0,1,0,0,Near Eastside,,> 60,Female,Graduate or Professional Degree,USA,English,"$50,000 - $74,999",,en,493
+2018-02-07T16:44:55.000Z,-1,0,0,0,1,1,0,0,1,Strathmore,,43 - 60,Other,Associates Degree,,,,,en,494
+2018-02-11T19:26:33.000Z,0,0,0,1,1,0,1,0,0,Northside,,43 - 60,Female,Some College,,,,,en,495
+2018-02-08T21:10:34.000Z,1,0,0,0,-1,1,1,0,0,I live outside of the City,,19 - 42,Female,Graduate or Professional Degree,,,"$150,000 - $199,999",,en,496
+2018-02-07T18:15:29.000Z,1,0,0,1,-1,0,1,0,0,University Neighborhood,,43 - 60,Male,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,497
+2018-02-07T16:01:21.000Z,1,0,0,0,1,0,1,0,0,Strathmore,,43 - 60,Female,Graduate or Professional Degree,,,,,en,498
+2018-02-20T15:46:21.000Z,0,0,0,-1,1,1,0,0,0,Near Eastside,,> 60,Female,Bachelors Degree,,,"$150,000 - $199,999",,en,499
+2018-02-20T16:04:43.000Z,0,0,-1,1,1,0,0,0,0,Westcott,,> 60,Male,Bachelors Degree,,,,,en,500
+2018-02-07T18:52:57.000Z,-1,0,0,1,0,1,1,0,0,Sedgwick,,43 - 60,Male,Graduate or Professional Degree,USA,English,"$200,000 or more",,en,501
+2018-02-13T23:29:57.000Z,0,0,0,1,-1,1,0,1,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,,,,,en,502
+2018-02-13T23:30:31.000Z,0,0,0,0,0,1,1,0,0,Eastwood,,19 - 42,Female,Graduate or Professional Degree,,,"$200,000 or more",,en,503
+2018-02-02T17:24:57.000Z,-1,0,0,1,0,1,1,0,0,Meadowbrook,,> 60,Male,Graduate or Professional Degree,US,English,"$75,000 - $99,999",,en,504
+2018-01-31T23:50:42.000Z,1,0,0,0,1,-1,1,0,0,Far Westside,,43 - 60,Male,Associates Degree,United States,English,"$15,000 - $24,999",,en,505
+2018-02-07T15:56:33.000Z,0,1,0,0,0,1,1,0,0,University Neighborhood,,> 60,Female,Graduate or Professional Degree,u,,,,en,506
+2018-02-07T19:48:35.000Z,0,0,0,1,-1,1,0,1,0,University Neighborhood,,> 60,Male,Graduate or Professional Degree,,,"$150,000 - $199,999",,en,507
+2018-02-07T16:31:13.000Z,0,0,0,1,1,-1,1,0,0,Elmwood,,43 - 60,Male,Bachelors Degree,,,"$35,000 - $49,999",,en,508
+2018-02-16T00:12:45.000Z,1,-1,0,0,1,0,1,0,0,South Valley,,43 - 60,Male,Bachelors Degree,,,,,en,509
+2018-02-15T23:49:36.000Z,0,0,0,-1,1,1,0,1,0,Other,,43 - 60,Female,Associates Degree,,,"$10,000 - $14,999",,en,510
+2018-02-20T15:11:23.000Z,0,1,0,-1,1,0,0,0,0,Hawley Green,,43 - 60,Male,Bachelors Degree,USA,English,"$15,000 - $24,999",,en,511
+2018-02-15T22:46:36.000Z,-1,1,0,0,0,1,1,0,0,Tipp Hill,,> 60,Female,Graduate or Professional Degree,,,,,en,512
+2018-02-10T10:22:30.000Z,1,-1,0,1,0,0,1,0,0,University Neighborhood,,> 60,Male,Bachelors Degree,,,"$100,000 - $149,999",,en,513
+2018-02-09T02:14:59.000Z,1,0,0,1,-1,0,1,0,0,Meadowbrook,,43 - 60,Other,Graduate or Professional Degree,,,,,en,514
+2018-02-14T04:08:03.000Z,0,0,0,0,0,1,0,1,0,Other,,< 18,Male,Some College,United States,English,,,en,515
+2018-02-20T15:38:04.000Z,1,0,1,-1,0,0,0,0,0,Northside,,19 - 42,Female,High School or GED,,,,,en,516
+2018-02-07T18:19:01.000Z,1,0,0,0,1,0,0,0,0,Westcott,,43 - 60,Male,Graduate or Professional Degree,,,,,en,517
+2018-02-01T21:19:19.000Z,0,-1,0,1,1,0,1,0,0,Franklin Square,,19 - 42,Male,Graduate or Professional Degree,USA,English,"$50,000 - $74,999",,en,518
+2018-02-08T18:53:51.000Z,0,0,0,1,0,1,0,0,1,I live outside of the City,,19 - 42,Female,Bachelors Degree,,,"$10,000 - $14,999",,en,519
+2018-02-08T18:09:15.000Z,0,0,0,1,-1,1,0,1,0,Tipp Hill,,19 - 42,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,520
+2018-02-20T15:10:18.000Z,1,1,0,0,-1,0,0,0,0,Other,library,< 18,Other,Less than high school,,,,,en,521
+2018-02-15T22:17:15.000Z,1,0,1,0,0,0,1,0,0,Tipp Hill,,19 - 42,Female,Bachelors Degree,,,"$50,000 - $74,999",,en,522
+2018-02-07T20:44:59.000Z,-1,0,1,0,0,1,1,0,0,Sedgwick,,43 - 60,Male,Bachelors Degree,,,"$75,000 - $99,999",,en,523
+2018-02-09T13:28:06.000Z,1,0,0,0,1,0,0,1,0,Northside,,> 60,Female,Associates Degree,,English,"$25,000 - $34,999",,en,524
+2018-02-07T18:12:47.000Z,1,0,-1,0,0,1,1,0,0,Westcott,,19 - 42,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,525
+2018-02-02T14:28:24.000Z,0,0,0,1,1,0,1,0,0,South Campus,,19 - 42,Male,Bachelors Degree,,,,,en,526
+2018-01-31T22:59:23.000Z,1,0,0,1,0,0,1,0,0,Court Woodlawn,,43 - 60,Female,Bachelors Degree,,,,,en,527
+2018-02-20T15:54:52.000Z,0,1,0,1,0,0,0,0,0,Westcott,,19 - 42,Female,Less than high school,,,"$10,000 - $14,999",,en,528
+2018-01-31T23:27:37.000Z,1,0,0,0,1,0,0,1,0,I live outside of the City,,43 - 60,Female,Bachelors Degree,,,"$50,000 - $74,999",,en,529
+2018-02-08T17:10:16.000Z,0,1,0,1,0,0,0,1,0,Westcott,,19 - 42,Female,Bachelors Degree,,,"Less than $10,000",,en,530
+2018-02-20T15:57:01.000Z,1,1,0,-1,0,0,0,0,0,South Valley,,> 60,Male,Associates Degree,Usa,Klingon,"$15,000 - $24,999",,en,531
+2018-02-10T17:07:00.000Z,1,0,0,0,0,1,1,0,0,Hawley Green,,19 - 42,Female,Graduate or Professional Degree,,,,,en,532
+2018-02-09T20:28:35.000Z,0,0,0,0,0,1,1,0,0,Outer Comstock,,19 - 42,Female,Bachelors Degree,,,,,en,533
+2018-02-12T22:23:19.000Z,-1,0,0,1,0,1,1,0,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,534
+2018-02-07T22:38:03.000Z,0,1,0,0,1,0,1,0,0,Meadowbrook,,> 60,Male,Graduate or Professional Degree,USA,,"$75,000 - $99,999",,en,535
+2018-02-01T03:13:47.000Z,1,1,-1,0,0,0,1,0,0,Meadowbrook,,19 - 42,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,536
+2018-02-08T15:45:30.000Z,0,0,-1,1,1,0,0,1,0,University Neighborhood,,> 60,Female,Graduate or Professional Degree,,,,,en,537
+2018-02-14T16:35:18.000Z,0,0,0,0,0,1,0,1,0,I live outside of the City,,> 60,Female,Bachelors Degree,US,English,"$35,000 - $49,999",,en,538
+2018-02-08T16:45:00.000Z,0,0,1,0,1,-1,1,0,0,Sedgwick,,43 - 60,Female,Bachelors Degree,,,"$200,000 or more",,en,539
+2018-01-31T23:41:25.000Z,0,0,1,0,1,-1,0,1,0,Northside,,< 18,Female,Less than high school,,,,,en,540
+2018-02-07T18:56:56.000Z,1,0,0,1,0,0,1,0,0,Meadowbrook,,> 60,Female,Bachelors Degree,,,"$50,000 - $74,999",,en,541
+2018-02-02T14:26:09.000Z,-1,0,0,1,0,1,1,0,0,South Campus,,19 - 42,Female,Some College,USA,English,"Less than $10,000",,en,542
+2018-01-31T18:30:13.000Z,0,0,1,0,0,0,1,0,0,Northside,,43 - 60,Female,Graduate or Professional Degree,,,"$150,000 - $199,999",,en,543
+2018-01-31T18:03:56.000Z,0,1,0,0,0,1,1,0,0,Far Westside,,< 18,Female,High School or GED,,,,,en,544
+2018-02-13T23:32:48.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,,,,,en,545
+2018-02-02T14:26:56.000Z,1,0,-1,1,0,0,1,0,0,Other,,19 - 42,Male,Some College,,,"Less than $10,000",,en,546
+2018-02-08T15:29:19.000Z,0,0,1,0,1,0,1,0,0,Eastwood,,> 60,Female,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,547
+2018-02-13T15:20:10.000Z,1,0,0,0,1,0,0,0,1,I live outside of the City,,> 60,Female,Graduate or Professional Degree,USA,English,"$35,000 - $49,999",,en,548
+2018-01-31T18:26:50.000Z,1,0,0,0,1,0,1,0,0,South Valley,,< 18,Female,High School or GED,,,,,en,549
+2018-02-20T16:08:42.000Z,1,0,1,0,0,0,0,0,0,South Valley,,> 60,Female,Associates Degree,Usa,English,"$15,000 - $24,999",,en,550
+2018-02-20T16:32:06.000Z,0,1,0,1,0,0,0,0,0,Brighton,,43 - 60,Male,High School or GED,,,"Less than $10,000",,en,551
+2018-02-20T15:34:21.000Z,0,0,1,0,0,1,0,0,0,University Hill,,< 18,Female,Less than high school,,,,,en,552
+2018-02-20T15:25:55.000Z,1,0,1,0,0,-1,0,0,0,Downtown,,19 - 42,Male,High School or GED,,,"Less than $10,000",,en,553
+2018-02-16T03:21:51.000Z,1,0,-1,1,0,0,1,0,0,Northside,,43 - 60,Male,Some College,,,"$35,000 - $49,999",,en,554
+2018-02-20T16:14:42.000Z,1,0,0,0,1,0,0,0,0,Southside,,< 18,Female,Less than high school,,,,,en,555
+2018-02-20T15:38:48.000Z,1,0,0,1,0,0,0,0,0,Westcott,,43 - 60,Male,Bachelors Degree,,,"$50,000 - $74,999",,en,556
+2018-02-09T04:35:05.000Z,0,1,1,0,-1,0,1,0,0,University Neighborhood,,> 60,Female,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,557
+2018-02-07T15:37:46.000Z,1,0,-1,1,0,0,0,0,1,Eastwood,,19 - 42,Female,Graduate or Professional Degree,,,"$150,000 - $199,999",,en,558
+2018-02-20T15:44:47.000Z,-1,1,0,1,0,0,0,0,0,Other,Library,< 18,Other,Less than high school,,,,,en,559
+2018-02-13T04:33:35.000Z,0,1,0,0,0,1,1,0,0,Westcott,,43 - 60,Male,Some College,,,"$25,000 - $34,999",,en,560
+2018-02-01T17:54:58.000Z,0,1,0,1,0,0,1,0,0,I live outside of the City,,19 - 42,Male,Graduate or Professional Degree,U.S.A.,English,"$50,000 - $74,999",,en,561
+2018-02-20T15:27:49.000Z,0,1,0,-1,1,0,0,0,0,Far Westside,,19 - 42,Male,High School or GED,,,"$10,000 - $14,999",,en,562
+2018-02-20T15:20:21.000Z,0,1,-1,1,0,0,0,0,0,Northside,,19 - 42,Male,Bachelors Degree,usa,English,"$15,000 - $24,999",,en,563
+2018-02-09T20:30:01.000Z,0,0,0,1,0,1,1,0,0,Lincoln Hill,,19 - 42,Female,Some College,,,"Less than $10,000",,en,564
+2018-02-13T23:23:09.000Z,0,0,1,0,-1,1,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,USA,English,"$100,000 - $149,999",,en,565
+2018-02-02T14:26:41.000Z,1,-1,0,0,1,0,1,0,0,University Hill,,19 - 42,Male,Some College,United States,English,,,en,566
+2018-02-20T15:21:25.000Z,1,1,0,0,0,0,0,0,0,Court Woodlawn,,43 - 60,Male,Some College,USA,English,"$25,000 - $34,999",,en,567
+2018-01-31T18:20:23.000Z,0,0,1,0,1,0,1,0,0,Far Westside,,< 18,Male,High School or GED,America,English,"$15,000 - $24,999",,en,568
+2018-02-14T22:39:02.000Z,0,0,0,0,0,1,0,1,0,I live outside of the City,,> 60,Male,Graduate or Professional Degree,US,English,,,en,569
+2018-02-09T02:04:32.000Z,1,-1,0,0,1,0,1,0,0,Westcott,,19 - 42,Female,Graduate or Professional Degree,,,,,en,570
+2018-02-05T13:28:55.000Z,0,0,0,1,1,0,1,0,0,I live outside of the City,,> 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,571
+2018-02-20T16:23:27.000Z,-1,1,0,1,0,0,0,0,0,South Valley,,> 60,Female,Some College,,,,,en,572
+2018-02-16T00:59:59.000Z,0,0,0,1,1,0,1,0,0,Tipp Hill,,19 - 42,Male,Some College,,,"$50,000 - $74,999",,en,573
+2018-02-12T14:49:30.000Z,1,0,0,0,1,0,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,USA,This one works,"$75,000 - $99,999",,en,574
+2018-02-02T13:39:40.000Z,1,0,-1,0,0,1,1,0,0,I live outside of the City,,43 - 60,Male,Bachelors Degree,USA,English,"$75,000 - $99,999",,en,575
+2018-02-15T02:36:30.000Z,0,0,1,0,0,1,0,1,0,Eastwood,,> 60,Female,Bachelors Degree,,,"$10,000 - $14,999",,en,576
+2018-02-15T22:40:26.000Z,0,0,1,0,0,1,1,0,0,I live outside of the City,,19 - 42,Female,Associates Degree,,,"$50,000 - $74,999",,en,577
+2018-02-14T23:38:28.000Z,0,0,0,1,-1,1,1,0,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,usa,english,"$75,000 - $99,999",,en,578
+2018-02-20T15:32:29.000Z,0,1,-1,1,0,0,0,0,0,Skunk City,,19 - 42,Female,Some College,Puerto Rico,Spanish,"Less than $10,000",,en,579
+2018-02-14T09:09:58.000Z,0,1,0,1,0,0,1,0,0,Eastwood,,> 60,Female,Some College,United States,English,"$15,000 - $24,999",,en,580
+2018-02-08T16:55:26.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,> 60,Female,Bachelors Degree,USA,English,"$100,000 - $149,999",,en,581
+2018-01-31T23:15:20.000Z,-1,1,0,0,1,0,1,0,0,Outer Comstock,,19 - 42,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,582
+2018-02-08T20:10:45.000Z,1,0,1,-1,0,0,1,0,0,Meadowbrook,,43 - 60,Female,Graduate or Professional Degree,United States of america,English,"$50,000 - $74,999",,en,583
+2018-02-20T15:47:29.000Z,1,0,1,0,-1,0,0,0,0,Eastwood,,> 60,Male,Associates Degree,Usa,English,"$35,000 - $49,999",,en,584
+2018-02-12T15:45:24.000Z,1,0,0,0,1,-1,1,0,0,Salt Springs,,43 - 60,Female,Bachelors Degree,,,,,en,585
+2018-02-04T15:04:03.000Z,0,1,0,0,1,0,1,0,0,Strathmore,,19 - 42,Female,Bachelors Degree,,,"$50,000 - $74,999",,en,586
+2018-02-09T02:00:34.000Z,0,1,0,0,1,0,1,0,0,Eastwood,,43 - 60,Male,Graduate or Professional Degree,Usa,English,"$50,000 - $74,999",,en,587
+2018-02-07T15:40:08.000Z,1,0,0,0,1,-1,0,1,0,Near Westside,,> 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,588
+2018-02-07T17:27:27.000Z,1,-1,0,0,1,0,1,0,0,University Neighborhood,,19 - 42,Male,Bachelors Degree,Unit d State,English,"$150,000 - $199,999",,en,589
+2018-01-31T17:53:53.000Z,1,1,0,0,0,0,1,0,0,Southwest,,< 18,Male,Less than high school,,,"$15,000 - $24,999",,en,590
+2018-02-20T15:20:44.000Z,0,1,1,0,0,0,0,0,0,Other,Library,< 18,Other,Less than high school,,,,,en,591
+2018-02-08T05:24:20.000Z,1,0,0,0,-1,1,1,0,0,Eastwood,,> 60,Male,Some College,U.S.A.,,"$50,000 - $74,999",,en,592
+2018-02-20T16:19:50.000Z,0,1,0,0,1,0,0,0,0,Southside,,19 - 42,Male,High School or GED,,,,,en,593
+2018-02-07T17:28:56.000Z,0,1,1,-1,0,0,1,0,0,Elmwood,,> 60,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,594
+2018-02-09T00:33:37.000Z,1,1,0,0,0,0,1,0,0,Sedgwick,,43 - 60,Male,Graduate or Professional Degree,,,,,en,595
+2018-02-16T02:26:28.000Z,0,0,-1,1,1,0,1,0,0,Brighton,,19 - 42,Female,Graduate or Professional Degree,Haiti,English,"$50,000 - $74,999",,en,596
+2018-02-20T16:29:02.000Z,1,1,0,0,0,0,0,0,0,Southside,,> 60,Female,Associates Degree,,,"$15,000 - $24,999",,en,597
+2018-02-20T15:30:12.000Z,0,1,1,-1,0,0,0,0,0,Skunk City,,> 60,Female,High School or GED,,,,,en,598
+2018-02-07T21:57:25.000Z,1,1,0,0,0,-1,1,0,0,Lakefront,,> 60,Male,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,599
+2018-01-31T23:42:20.000Z,0,0,1,0,0,1,1,0,0,I live outside of the City,,43 - 60,Male,Associates Degree,,,"$50,000 - $74,999",,en,600
+2018-02-02T00:05:27.000Z,1,1,0,0,0,-1,1,0,0,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,601
+2018-02-07T17:24:23.000Z,0,1,0,0,1,-1,0,1,0,I live outside of the City,,> 60,Male,Graduate or Professional Degree,Canada,English,"$75,000 - $99,999",,en,602
+2018-02-20T15:51:12.000Z,1,0,1,0,0,0,0,0,0,Westcott,,> 60,Female,High School or GED,,,"$15,000 - $24,999",,en,603
+2018-02-08T18:49:30.000Z,1,1,0,0,-1,0,1,0,0,Meadowbrook,,43 - 60,Male,Bachelors Degree,,,"$75,000 - $99,999",,en,604
+2018-02-07T16:02:43.000Z,1,0,0,0,1,0,1,0,0,Winkworth,,> 60,Male,Graduate or Professional Degree,,,"$200,000 or more",,en,605
+2018-02-01T21:15:24.000Z,1,0,0,0,1,0,1,0,0,Meadowbrook,,19 - 42,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,606
+2018-02-20T15:30:05.000Z,0,1,0,0,1,-1,0,0,0,Other,Library,< 18,Other,Less than high school,,,,,en,607
+2018-02-07T22:36:07.000Z,-1,1,0,0,1,0,1,0,0,Sedgwick,,19 - 42,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,608
+2018-01-31T18:20:29.000Z,1,0,0,0,1,0,1,0,0,Northside,,< 18,Male,High School or GED,America,English,,,en,609
+2018-02-12T22:59:01.000Z,0,1,0,0,0,1,1,0,0,I live outside of the City,,19 - 42,Female,Graduate or Professional Degree,,,"$35,000 - $49,999",,en,610
+2018-01-31T23:46:13.000Z,1,0,-1,0,0,1,0,1,0,Brighton,,< 18,Male,Less than high school,,,,,en,611
+2018-02-02T14:27:15.000Z,1,1,0,0,0,0,1,0,0,Other,,19 - 42,Female,Bachelors Degree,,,"$10,000 - $14,999",,en,612
+2018-02-13T12:36:24.000Z,0,1,0,0,0,1,1,0,0,University Neighborhood,,19 - 42,Female,Graduate or Professional Degree,,,,,en,613
+2018-02-07T20:58:00.000Z,1,1,0,0,0,0,1,0,0,Lincoln Hill,,> 60,Female,Bachelors Degree,,,,,en,614
+2018-02-07T16:01:04.000Z,1,0,1,0,0,0,1,0,0,South Valley,,> 60,Male,Graduate or Professional Degree,,,,,en,615
+2018-02-07T20:40:50.000Z,-1,0,1,1,0,0,1,0,0,University Neighborhood,,19 - 42,Female,Graduate or Professional Degree,,,,,en,616
+2018-02-07T17:38:51.000Z,0,1,1,0,-1,0,1,0,0,University Neighborhood,,43 - 60,Male,Graduate or Professional Degree,United States of America,English,"$75,000 - $99,999",,en,617
+2018-02-08T02:08:42.000Z,0,1,0,1,0,-1,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,America,English,"$200,000 or more",,en,618
+2018-02-20T16:04:58.000Z,0,1,0,1,0,0,0,0,0,Westcott,,19 - 42,Female,Graduate or Professional Degree,Usa,,"$25,000 - $34,999",,en,619
+2018-01-31T18:00:06.000Z,1,-1,0,1,0,0,1,0,0,Southside,,< 18,Female,Bachelors Degree,,English,"$10,000 - $14,999",,en,620
+2018-02-01T02:06:25.000Z,0,0,1,0,1,0,0,1,0,Hawley Green,,19 - 42,Male,Graduate or Professional Degree,United States,English,"$50,000 - $74,999",,en,621
+2018-02-02T14:23:25.000Z,0,0,0,1,1,-1,0,1,0,Strathmore,,19 - 42,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,622
+2018-02-07T17:54:46.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,43 - 60,Female,Bachelors Degree,USA,English,"$100,000 - $149,999",,en,623
+2018-02-14T19:35:30.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,> 60,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,624
+2018-02-15T23:07:37.000Z,1,-1,0,1,0,0,1,0,0,I live outside of the City,,19 - 42,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,625
+2018-02-07T18:12:29.000Z,0,1,0,-1,1,0,1,0,0,Eastwood,,19 - 42,Male,Bachelors Degree,United States,English,"$50,000 - $74,999",,en,626
+2018-02-01T18:30:43.000Z,0,1,-1,0,1,0,0,1,0,Lincoln Hill,,19 - 42,Male,Graduate or Professional Degree,,,"$35,000 - $49,999",,en,627
+2018-02-08T03:02:25.000Z,0,0,-1,1,0,1,1,0,0,Westcott,,43 - 60,Female,Some College,,,,,en,628
+2018-02-20T15:41:48.000Z,0,1,-1,0,1,0,0,0,0,University Hill,,19 - 42,Female,Bachelors Degree,,,"$15,000 - $24,999",,en,629
+2018-02-07T20:26:36.000Z,0,1,-1,0,0,1,1,0,0,Meadowbrook,,> 60,Female,Graduate or Professional Degree,USA,English,"$50,000 - $74,999",,en,630
+2018-02-07T22:44:57.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,631
+2018-02-08T02:29:13.000Z,0,0,0,0,1,1,1,0,0,University Neighborhood,,> 60,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,632
+2018-02-07T23:13:35.000Z,-1,1,0,0,0,1,1,0,0,Meadowbrook,,> 60,Female,Bachelors Degree,US,English,"$75,000 - $99,999",,en,633
+2018-02-09T14:14:54.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,USA,English,"$75,000 - $99,999",,en,634
+2018-02-08T11:55:33.000Z,0,0,0,1,1,0,1,0,0,North Valley,,19 - 42,Female,Graduate or Professional Degree,,,"$35,000 - $49,999",,en,635
+2018-02-07T16:09:25.000Z,1,0,0,0,1,0,1,0,0,Skunk City,,19 - 42,Other,High School or GED,,,"$25,000 - $34,999",,en,636
+2018-02-20T15:25:23.000Z,0,0,1,-1,1,0,0,0,0,Other,Westvale,> 60,Female,Graduate or Professional Degree,,,,,en,637
+2018-01-31T23:17:49.000Z,1,1,0,0,0,-1,1,0,0,North Valley,,19 - 42,Female,Some College,,,,,en,638
+2018-02-15T23:07:31.000Z,0,0,1,0,1,0,1,0,0,Eastwood,,19 - 42,Female,Graduate or Professional Degree,,,,,en,639
+2018-02-01T22:39:13.000Z,1,0,0,0,1,0,1,0,0,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,640
+2018-02-13T23:09:25.000Z,0,0,0,0,0,1,1,0,0,I live outside of the City,,> 60,Male,Graduate or Professional Degree,,,,,en,641
+2018-02-08T20:59:52.000Z,1,0,0,0,1,0,0,1,0,I live outside of the City,,43 - 60,Male,Bachelors Degree,,,,,en,642
+2018-02-12T22:58:27.000Z,1,0,1,0,0,0,1,0,0,Near Westside,,19 - 42,Female,Graduate or Professional Degree,US,English,"$50,000 - $74,999",,en,643
+2018-01-30T20:09:41.000Z,0,1,0,0,1,-1,1,0,0,Westcott,,19 - 42,Female,Bachelors Degree,,,"$50,000 - $74,999",,en,644
+2018-02-20T16:00:53.000Z,1,0,1,0,0,0,0,0,0,Eastwood,,> 60,Female,Less than high school,The potholes in the streets,,"Less than $10,000",,en,645
+2018-02-20T15:43:43.000Z,1,0,0,1,0,0,0,0,0,Salt Springs,,> 60,Female,Graduate or Professional Degree,,,"$35,000 - $49,999",,en,646
+2018-02-20T15:41:47.000Z,0,0,1,1,0,-1,0,0,0,Meadowbrook,,43 - 60,Female,Some College,,,"$35,000 - $49,999",,en,647
+2018-02-07T15:44:34.000Z,0,0,0,1,1,-1,1,0,0,Strathmore,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,648
+2018-02-15T23:41:17.000Z,0,0,1,0,0,0,0,1,0,University Neighborhood,,43 - 60,Male,Bachelors Degree,,,"$200,000 or more",,en,649
+2018-02-20T15:26:27.000Z,1,0,0,1,0,0,0,0,0,Downtown,,43 - 60,Female,Some College,Usa,English,"Less than $10,000",,en,650
+2018-02-15T06:55:58.000Z,0,0,0,1,1,0,1,0,0,Far Westside,,< 18,Male,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,651
+2018-02-07T19:04:33.000Z,0,1,0,-1,0,1,0,1,0,Westcott,,> 60,Female,Bachelors Degree,US,English,"$50,000 - $74,999",,en,652
+2018-02-08T19:32:51.000Z,0,0,0,0,1,1,1,0,0,Northside,,19 - 42,Male,Graduate or Professional Degree,,,,,en,653
+2018-01-31T23:26:11.000Z,0,1,-1,0,1,0,1,0,0,Southside,,43 - 60,Male,Some College,,,,,en,654
+2018-01-31T23:28:02.000Z,0,0,1,0,1,0,1,0,0,I live outside of the City,,19 - 42,Male,Bachelors Degree,,,"$75,000 - $99,999",,en,655
+2018-02-16T02:11:08.000Z,0,0,1,-1,1,0,1,0,0,Strathmore,,19 - 42,Male,Associates Degree,,,"$35,000 - $49,999",,en,656
+2018-02-16T16:06:43.000Z,1,0,-1,1,0,0,1,0,0,Eastwood,,19 - 42,Male,Bachelors Degree,,,"$35,000 - $49,999",,en,657
+2018-02-14T14:45:27.000Z,1,0,0,0,0,1,1,0,0,University Hill,,43 - 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,658
+2018-02-07T19:57:42.000Z,0,0,0,0,1,1,1,0,0,Westcott,,43 - 60,Female,Bachelors Degree,USA,English,"$75,000 - $99,999",,en,659
+2018-02-08T21:19:39.000Z,1,1,-1,0,0,0,1,0,0,University Hill,,19 - 42,Female,Some College,,,,,en,660
+2018-01-31T23:28:05.000Z,0,1,0,1,0,0,1,0,0,Lakefront,,19 - 42,Female,Bachelors Degree,USA,English,"$35,000 - $49,999",,en,661
+2018-02-01T14:25:28.000Z,0,1,0,0,1,0,1,0,0,Franklin Square,,19 - 42,Male,Bachelors Degree,United States,English,"$50,000 - $74,999",,en,662
+2018-02-16T11:28:35.000Z,0,1,0,1,0,0,0,0,0,I live outside of the City,,19 - 42,Male,Associates Degree,,,"$150,000 - $199,999",,en,663
+2018-01-31T17:30:40.000Z,1,1,0,0,0,0,0,1,0,I live outside of the City,,< 18,Female,High School or GED,,,,,en,664
+2018-02-09T00:37:52.000Z,0,1,0,0,0,1,0,0,1,Strathmore,,> 60,Female,Graduate or Professional Degree,,,,,en,665
+2018-01-31T23:46:03.000Z,0,1,0,-1,1,0,1,0,0,Sedgwick,,43 - 60,Female,Graduate or Professional Degree,,,"$150,000 - $199,999",,en,666
+2018-02-15T22:41:32.000Z,1,0,0,-1,1,0,1,0,0,Eastwood,,19 - 42,Male,Bachelors Degree,US,English,"$50,000 - $74,999",,en,667
+2018-02-20T15:36:07.000Z,0,1,0,1,0,0,0,0,0,Hawley Green,,43 - 60,Female,High School or GED,,,"Less than $10,000",,en,668
+2018-02-07T21:37:26.000Z,1,0,0,-1,1,0,0,1,0,North Valley,,43 - 60,Female,Associates Degree,USA,English,"$35,000 - $49,999",,en,669
+2018-02-20T15:57:18.000Z,1,0,0,0,0,0,0,0,0,Westcott,,43 - 60,Female,Bachelors Degree,,,"$50,000 - $74,999",,en,670
+2018-02-20T15:23:30.000Z,0,0,1,1,0,0,0,0,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,Usa,English,"$50,000 - $74,999",,en,671
+2018-02-08T02:14:40.000Z,0,0,1,0,1,0,1,0,0,Westcott,,43 - 60,Female,Graduate or Professional Degree,US,English,"$75,000 - $99,999",,en,672
+2018-02-16T21:15:30.000Z,1,-1,0,1,0,0,0,0,1,Northside,,19 - 42,Male,Bachelors Degree,,,"$35,000 - $49,999",,en,673
+2018-02-07T22:43:15.000Z,1,0,0,0,0,1,1,0,0,Franklin Square,,19 - 42,Male,Graduate or Professional Degree,Spain,English/ Spanish,"$50,000 - $74,999",,en,674
+2018-02-07T15:54:37.000Z,1,1,0,0,0,0,1,0,0,University Neighborhood,,19 - 42,Female,Bachelors Degree,Russia,English,"$75,000 - $99,999",,en,675
+2018-02-20T16:11:48.000Z,0,1,0,0,0,0,0,0,0,Far Westside,,> 60,Female,High School or GED,,,,,en,676
+2018-02-20T15:56:44.000Z,1,0,-1,1,0,0,0,0,0,Westcott,,> 60,Male,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,677
+2018-02-20T15:40:00.000Z,0,1,-1,0,1,0,0,0,0,Tipp Hill,,43 - 60,Male,Associates Degree,,,"$15,000 - $24,999",,en,678
+2018-02-16T00:33:48.000Z,0,1,0,0,-1,1,0,1,0,Southside,,19 - 42,Male,Some College,,,"$15,000 - $24,999",,en,679
+2018-02-16T00:19:28.000Z,1,-1,0,0,0,1,1,0,0,I live outside of the City,,43 - 60,Female,Associates Degree,,,"$50,000 - $74,999",,en,680
+2018-02-08T19:12:47.000Z,1,1,0,-1,0,0,1,0,0,Winkworth,,43 - 60,Female,Bachelors Degree,,,,,en,681
+2018-01-31T23:32:17.000Z,-1,0,1,0,1,0,1,0,0,Eastwood,,> 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,682
+2018-02-08T22:54:00.000Z,0,1,0,1,0,0,1,0,0,Sedgwick,,43 - 60,Female,Graduate or Professional Degree,us,English,,,en,683
+2018-02-16T20:20:12.000Z,1,0,0,0,1,0,0,1,0,Eastwood,,43 - 60,Female,Associates Degree,,,"$50,000 - $74,999",,en,684
+2018-02-14T03:50:06.000Z,0,1,0,0,0,1,0,1,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,USA,English,"$75,000 - $99,999",,en,685
+2018-02-16T02:54:04.000Z,1,0,0,0,0,1,1,0,0,Tipp Hill,,19 - 42,Female,Bachelors Degree,,,"$25,000 - $34,999",,en,686
+2018-02-13T02:12:51.000Z,1,0,0,1,-1,0,1,0,0,Meadowbrook,,19 - 42,Female,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,687
+2018-02-20T15:44:16.000Z,1,-1,0,0,0,1,0,0,0,Sedgwick,,> 60,Female,Associates Degree,Usa,English,"$150,000 - $199,999",,en,688
+2018-02-14T13:06:34.000Z,1,0,0,0,0,1,1,0,0,Tipp Hill,,19 - 42,Female,Graduate or Professional Degree,Usa,English,"$50,000 - $74,999",,en,689
+2018-02-20T16:18:50.000Z,0,1,0,1,0,0,0,0,0,Salt Springs,,19 - 42,Female,Associates Degree,,,,,en,690
+2018-02-07T17:36:15.000Z,0,1,0,0,1,0,0,0,1,Strathmore,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,691
+2018-02-12T17:06:59.000Z,0,1,0,0,1,0,0,1,0,Downtown,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,692
+2018-02-20T16:11:37.000Z,0,0,1,1,0,0,0,0,0,Other,library,< 18,Other,Less than high school,,,,,en,693
+2018-02-20T16:22:05.000Z,0,1,0,0,1,0,0,0,0,South Valley,,43 - 60,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,694
+2018-02-20T16:18:11.000Z,0,0,0,1,1,-1,0,0,0,North Valley,,43 - 60,Female,High School or GED,,,,,en,695
+2018-02-13T22:08:56.000Z,0,1,0,0,0,1,1,0,0,Westcott,,19 - 42,Female,Some College,,,"Less than $10,000",,en,696
+2018-02-08T02:47:13.000Z,1,0,0,0,0,1,0,1,0,I live outside of the City,,> 60,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,697
+2018-02-07T21:34:46.000Z,1,1,0,0,0,0,1,0,0,Brighton,,43 - 60,Female,Some College,,,"$50,000 - $74,999",,en,698
+2018-02-08T03:17:22.000Z,0,1,0,0,-1,1,1,0,0,Meadowbrook,,> 60,Female,Graduate or Professional Degree,USA,ENGLISH,"$75,000 - $99,999",,en,699
+2018-02-20T15:46:12.000Z,0,1,0,1,-1,0,0,0,0,Westcott,,> 60,Female,Graduate or Professional Degree,,,"$25,000 - $34,999",,en,700
+2018-02-20T16:13:43.000Z,0,0,1,0,0,0,0,0,0,Southside,,< 18,Female,Less than high school,,,,,en,701
+2018-02-08T12:55:40.000Z,1,1,-1,0,0,0,1,0,0,Westcott,,> 60,Male,Bachelors Degree,United States,English,"$35,000 - $49,999",,en,702
+2018-02-14T18:37:35.000Z,0,1,0,0,0,1,1,0,0,Strathmore,,43 - 60,Female,Bachelors Degree,United States,English,"$15,000 - $24,999",,en,703
+2018-02-20T16:07:58.000Z,0,1,1,0,0,-1,0,0,0,Other,Bradford Hills,> 60,Female,Bachelors Degree,Usa,English,"$35,000 - $49,999",,en,704
+2018-02-08T17:51:11.000Z,-1,1,0,0,0,1,0,1,0,Meadowbrook,,> 60,Female,Bachelors Degree,US,,"$35,000 - $49,999",,en,705
+2018-02-14T23:22:26.000Z,0,0,-1,1,0,1,1,0,0,I live outside of the City,,19 - 42,Female,Associates Degree,,,,,en,706
+2018-02-20T15:14:52.000Z,0,0,1,-1,0,1,0,0,0,Northside,,19 - 42,Female,Less than high school,USA,Latin is preferred,,,en,707
+2018-02-20T16:27:54.000Z,0,1,0,0,1,0,0,0,0,Southside,,43 - 60,Male,Graduate or Professional Degree,,,,,en,708
+2018-02-16T14:39:19.000Z,1,0,1,0,0,0,1,0,0,University Neighborhood,,43 - 60,Male,Bachelors Degree,usa,english,"$200,000 or more",,en,709
+2018-02-02T14:27:02.000Z,0,1,0,0,1,0,1,0,0,University Hill,,19 - 42,Female,Some College,Usa,English,"Less than $10,000",,en,710
+2018-02-20T15:38:07.000Z,0,0,0,1,0,1,0,0,0,University Neighborhood,,> 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,711
+2018-01-31T17:53:29.000Z,0,1,0,0,0,1,1,0,0,Westcott,,< 18,Female,Less than high school,Japan,,,,en,712
+2018-02-12T13:09:01.000Z,1,0,0,0,-1,1,1,0,0,University Neighborhood,,> 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,713
+2018-02-07T17:24:34.000Z,1,0,0,1,0,0,1,0,0,Westcott,,19 - 42,Male,Some College,,,"$35,000 - $49,999",,en,714
+2018-02-07T22:39:25.000Z,0,0,1,0,0,1,1,0,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,715
+2018-01-31T22:57:28.000Z,1,0,0,0,1,-1,1,0,0,Tipp Hill,,< 18,Male,High School or GED,United States,English,"Less than $10,000",,en,716
+2018-02-07T18:51:13.000Z,0,1,-1,1,0,0,0,1,0,Eastwood,,43 - 60,Female,Graduate or Professional Degree,,,"$35,000 - $49,999",,en,717
+2018-01-31T23:50:31.000Z,0,1,1,0,0,-1,1,0,0,I live outside of the City,,43 - 60,Male,Some College,USA,,"$100,000 - $149,999",,en,718
+2018-02-20T16:03:46.000Z,0,0,1,0,1,0,0,0,0,I live outside of the City,,43 - 60,Male,Some College,,,,,en,719
+2018-02-15T22:08:19.000Z,1,0,0,0,-1,1,0,1,0,Far Westside,,19 - 42,Male,Bachelors Degree,United States,English,"$50,000 - $74,999",,en,720
+2018-02-14T03:25:12.000Z,0,0,0,0,0,1,1,0,0,I live outside of the City,,> 60,Male,Graduate or Professional Degree,,,,,en,721
+2018-02-07T15:38:01.000Z,1,-1,0,0,0,1,1,0,0,Outer Comstock,,19 - 42,Female,Graduate or Professional Degree,,,,,en,722
+2018-02-15T01:15:03.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,> 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,723
+2018-02-20T15:26:32.000Z,-1,0,1,1,0,0,0,0,0,Near Westside,,19 - 42,Male,Associates Degree,,,"$25,000 - $34,999",,en,724
+2018-02-15T03:30:39.000Z,0,0,0,1,0,0,0,0,0,Westcott,,43 - 60,Female,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,725
+2018-02-13T23:11:17.000Z,0,-1,0,0,1,1,0,1,0,I live outside of the City,,19 - 42,Male,Graduate or Professional Degree,USA,English,"$100,000 - $149,999",,en,726
+2018-02-17T12:59:15.000Z,0,-1,1,1,0,0,0,1,0,Southwest,,19 - 42,Male,Bachelors Degree,,,"$25,000 - $34,999",,en,727
+2018-02-15T22:31:47.000Z,0,0,1,0,0,0,1,0,0,Northside,,> 60,Female,Some College,,,,,en,728
+2018-01-31T23:04:51.000Z,1,0,0,1,0,-1,1,0,0,Northside,,19 - 42,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,729
+2018-02-10T17:56:41.000Z,1,0,0,0,0,1,1,0,0,Meadowbrook,,43 - 60,Male,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,730
+2018-02-09T16:40:07.000Z,0,1,0,1,-1,0,1,0,0,Court Woodlawn,,43 - 60,Female,Bachelors Degree,United States,English,"$35,000 - $49,999",,en,731
+2018-02-07T15:43:40.000Z,0,1,0,-1,1,0,1,0,0,Near Westside,,19 - 42,Female,Bachelors Degree,United States,English,"$35,000 - $49,999",,en,732
+2018-02-07T19:59:49.000Z,0,1,0,1,-1,0,1,0,0,Westcott,,43 - 60,Female,Graduate or Professional Degree,USA,English,"$75,000 - $99,999",,en,733
+2018-02-20T15:35:26.000Z,1,1,0,0,0,0,0,0,0,Lincoln Hill,,43 - 60,Female,Some College,,,"$35,000 - $49,999",,en,734
+2018-02-09T20:52:45.000Z,0,0,1,0,1,-1,1,0,0,Other,Bradford Hills,43 - 60,Male,Graduate or Professional Degree,USA,English,,,en,735
+2018-02-14T11:52:25.000Z,0,1,0,0,-1,1,1,0,0,Westcott,,19 - 42,Female,High School or GED,Usa,English,"$25,000 - $34,999",,en,736
+2018-02-14T21:45:08.000Z,0,1,-1,0,0,1,1,0,0,I live outside of the City,,19 - 42,Female,Bachelors Degree,,,,,en,737
+2018-02-07T22:01:40.000Z,1,1,0,0,-1,0,1,0,0,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,US,English,"$100,000 - $149,999",,en,738
+2018-02-15T22:27:52.000Z,1,0,1,-1,0,0,1,0,0,Northside,,43 - 60,Male,Some College,USA,English,"$35,000 - $49,999",,en,739
+2018-02-07T17:52:21.000Z,0,-1,0,1,0,1,1,0,0,Strathmore,,19 - 42,Other,High School or GED,,,"$25,000 - $34,999",,en,740
+2018-02-07T20:59:09.000Z,0,0,1,0,-1,1,1,0,0,South Valley,,> 60,Male,Some College,,,"$50,000 - $74,999",,en,741
+2018-02-08T19:49:38.000Z,0,1,0,1,0,0,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,USA,English,"$50,000 - $74,999",,en,742
+2018-02-20T15:59:50.000Z,0,1,1,0,0,0,0,0,0,Meadowbrook,,> 60,Male,Graduate or Professional Degree,,,"Less than $10,000",,en,743
+2018-02-14T13:41:39.000Z,0,0,0,1,1,-1,1,0,0,Tipp Hill,,43 - 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,744
+2018-02-07T21:54:12.000Z,1,1,0,0,0,-1,1,0,0,Meadowbrook,,19 - 42,Male,Graduate or Professional Degree,,,"$35,000 - $49,999",,en,745
+2018-02-13T23:41:16.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,,,"$200,000 or more",,en,746
+2018-02-13T22:43:57.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,43 - 60,Male,Graduate or Professional Degree,,,,,en,747
+2018-02-12T14:49:25.000Z,1,0,1,0,0,0,1,0,0,Elmwood,,19 - 42,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,748
+2018-01-31T17:37:02.000Z,0,0,0,1,0,1,1,0,0,Southwest,,< 18,Female,Less than high school,,,"$50,000 - $74,999",,en,749
+2018-02-02T13:33:53.000Z,1,-1,1,0,0,0,1,0,0,Westcott,,43 - 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,750
+2018-02-13T23:35:23.000Z,0,0,0,1,0,1,0,0,0,I live outside of the City,,> 60,Female,Associates Degree,,,"$50,000 - $74,999",,en,751
+2018-02-20T15:32:35.000Z,1,0,0,-1,0,1,0,0,0,Strathmore,,> 60,Male,Associates Degree,,,"$100,000 - $149,999",,en,752
+2018-02-07T15:52:29.000Z,0,0,1,1,0,-1,1,0,0,Park Ave,,19 - 42,Male,Bachelors Degree,,,,,en,753
+2018-02-20T15:37:01.000Z,0,0,1,1,0,0,0,0,0,Westcott,,> 60,Male,Bachelors Degree,,,"Less than $10,000",,en,754
+2018-02-08T01:41:10.000Z,0,1,0,1,0,0,1,0,0,I live outside of the City,,43 - 60,Male,Graduate or Professional Degree,,,"$200,000 or more",,en,755
+2018-02-15T22:19:36.000Z,1,0,0,0,-1,1,1,0,0,Other,,19 - 42,Female,Some College,,,,,en,756
+2018-02-08T01:55:33.000Z,0,0,0,0,1,1,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,Usa,English,"$50,000 - $74,999",,en,757
+2018-01-31T18:10:32.000Z,0,1,1,0,0,0,1,0,0,Strathmore,,< 18,Female,Less than high school,Congo,English,"Less than $10,000",,en,758
+2018-02-07T15:50:41.000Z,1,1,0,-1,0,0,1,0,0,North Valley,,43 - 60,Female,Bachelors Degree,USA,English,,,en,759
+2018-02-20T16:36:02.000Z,0,1,1,0,0,-1,0,0,0,Eastwood,,19 - 42,Female,Graduate or Professional Degree,,,"$35,000 - $49,999",,en,760
+2018-02-15T18:37:54.000Z,0,0,1,0,1,0,1,0,0,Eastwood,,19 - 42,Female,Associates Degree,,Spanish,"$35,000 - $49,999",,en,761
+2018-02-14T02:23:56.000Z,0,0,0,1,0,1,1,0,0,Salt Springs,,43 - 60,Other,Bachelors Degree,,,"$25,000 - $34,999",,en,762
+2018-02-20T16:12:31.000Z,0,-1,0,0,1,1,0,0,0,Outer Comstock,,43 - 60,Male,Graduate or Professional Degree,,English,"$35,000 - $49,999",,en,763
+2018-02-20T15:29:31.000Z,1,0,0,0,0,1,0,0,0,Eastwood,,19 - 42,Male,Some College,Usa,Spanish,"$15,000 - $24,999",,en,764
+2018-02-07T19:05:02.000Z,0,1,0,0,-1,1,1,0,0,University Neighborhood,,> 60,Male,Graduate or Professional Degree,USA,English,"$100,000 - $149,999",,en,765
+2018-02-01T23:19:43.000Z,1,0,0,0,1,-1,0,1,0,Westcott,,19 - 42,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,766
+2018-02-09T21:32:31.000Z,0,1,0,0,1,-1,1,0,0,Near Westside,,19 - 42,Female,Graduate or Professional Degree,,,"$15,000 - $24,999",,en,767
+2018-01-31T23:23:37.000Z,1,0,0,0,1,0,1,0,0,North Valley,,19 - 42,Female,Associates Degree,,,,,en,768
+2018-02-14T01:17:49.000Z,0,0,0,1,0,1,1,0,0,I live outside of the City,,> 60,Male,Bachelors Degree,USA,American English,"$75,000 - $99,999",,en,769
+2018-01-31T23:28:11.000Z,0,0,0,1,1,0,1,0,0,Downtown,,19 - 42,Male,Bachelors Degree,USA,English,"$50,000 - $74,999",,en,770
+2018-02-20T15:18:12.000Z,0,1,1,-1,0,0,0,0,0,Northside,,> 60,Male,Some College,,English,,,en,771
+2018-02-20T15:22:13.000Z,0,1,1,-1,0,0,0,0,0,I live outside of the City,,19 - 42,Female,Graduate or Professional Degree,usa,English,"$100,000 - $149,999",,en,772
+2018-02-14T23:04:51.000Z,0,0,0,1,0,1,1,0,0,University Neighborhood,,43 - 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,773
+2018-02-15T23:45:56.000Z,0,-1,1,0,1,0,1,0,0,Sedgwick,,43 - 60,Female,Associates Degree,,,,,en,774
+2018-02-20T15:21:36.000Z,1,1,0,-1,0,0,0,0,0,Strathmore,,> 60,Male,High School or GED,,,"$35,000 - $49,999",,en,775
+2018-02-07T15:40:16.000Z,1,0,0,-1,1,0,1,0,0,I live outside of the City,,> 60,Male,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,776
+2018-02-20T16:01:51.000Z,0,0,0,1,1,0,0,0,0,South Valley,,43 - 60,Female,Associates Degree,Ecuadorian,,"$10,000 - $14,999",,en,777
+2018-02-08T06:13:15.000Z,1,0,0,0,1,-1,1,0,0,Sedgwick,,19 - 42,Female,Graduate or Professional Degree,,,,,en,778
+2018-01-31T17:30:18.000Z,1,0,0,0,-1,1,1,0,0,Other,,< 18,Male,Less than high school,Usa,English,"Less than $10,000",,en,779
+2018-02-12T21:07:23.000Z,1,1,0,0,0,0,0,1,0,University Neighborhood,,> 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,780
+2018-02-02T14:26:19.000Z,0,0,1,0,1,0,1,0,0,I live outside of the City,,43 - 60,Male,Graduate or Professional Degree,,,"$200,000 or more",,en,781
+2018-01-31T23:16:01.000Z,1,0,1,0,0,0,1,0,0,Eastwood,,19 - 42,Male,Associates Degree,,,"$15,000 - $24,999",,en,782
+2018-02-18T13:34:42.000Z,1,0,0,1,0,0,1,0,0,Winkworth,,43 - 60,Male,Graduate or Professional Degree,USA,English,"$100,000 - $149,999",,en,783
+2018-02-15T21:48:53.000Z,0,-1,1,1,0,0,1,0,0,Eastwood,,43 - 60,Female,Bachelors Degree,,,,,en,784
+2018-02-07T18:11:49.000Z,0,0,1,1,0,0,0,1,0,Strathmore,,43 - 60,Male,Bachelors Degree,,,"$100,000 - $149,999",,en,785
+2018-02-20T16:20:49.000Z,0,1,0,0,1,0,0,0,0,Southside,,19 - 42,Female,Associates Degree,,,,,en,786
+2018-01-31T23:25:02.000Z,0,1,0,0,0,1,0,1,0,Meadowbrook,,43 - 60,Female,Bachelors Degree,,,,,en,787
+2018-01-31T23:49:39.000Z,0,1,-1,1,0,0,0,1,0,Other,,> 60,Female,Associates Degree,,,,,en,788
+2018-02-07T22:36:04.000Z,0,1,0,-1,1,0,0,0,1,Sedgwick,,43 - 60,Female,Graduate or Professional Degree,,,"$150,000 - $199,999",,en,789
+2018-02-14T18:33:12.000Z,1,0,0,0,-1,1,0,1,0,Westcott,,19 - 42,Female,Bachelors Degree,,,"$10,000 - $14,999",,en,790
+2018-02-01T03:06:47.000Z,1,0,1,-1,0,0,1,0,0,University Neighborhood,,19 - 42,Male,Associates Degree,,,"$75,000 - $99,999",,en,791
+2018-02-07T21:06:55.000Z,0,1,-1,0,1,0,0,1,0,Westcott,,19 - 42,Female,Bachelors Degree,United States,English,"$75,000 - $99,999",,en,792
+2018-02-10T00:36:27.000Z,0,0,1,0,1,0,1,0,0,Sedgwick,,43 - 60,Female,Associates Degree,America,English,"$25,000 - $34,999",,en,793
+2018-02-07T17:28:13.000Z,1,0,0,0,1,0,0,0,0,Westcott,,19 - 42,Female,Graduate or Professional Degree,U.S.A,English,"$50,000 - $74,999",,en,794
+2018-02-07T17:51:23.000Z,0,1,0,0,1,-1,1,0,0,University Neighborhood,,> 60,Male,Graduate or Professional Degree,US,English,"$75,000 - $99,999",,en,795
+2018-02-07T18:54:04.000Z,0,1,1,0,0,-1,1,0,0,Eastwood,,43 - 60,Female,Associates Degree,,English,"$50,000 - $74,999",,en,796
+2018-02-07T18:10:26.000Z,0,0,0,1,0,1,0,1,0,South Valley,,> 60,Female,Graduate or Professional Degree,,,,,en,797
+2018-02-13T22:46:33.000Z,1,0,0,0,-1,1,1,0,0,Near Westside,,19 - 42,Female,Some College,usa,English,"$25,000 - $34,999",,en,798
+2018-02-07T19:59:32.000Z,0,0,1,0,1,0,1,0,0,I live outside of the City,,43 - 60,Male,Graduate or Professional Degree,Canada,English,"$200,000 or more",,en,799
+2018-02-14T04:02:05.000Z,0,1,0,0,1,0,1,0,0,I live outside of the City,,> 60,Male,Graduate or Professional Degree,US,English,"$100,000 - $149,999",,en,800
+2018-02-02T03:51:34.000Z,-1,1,0,0,1,0,1,0,0,Brighton,,19 - 42,Female,Bachelors Degree,,,,,en,801
+2018-01-31T23:19:50.000Z,1,0,0,1,0,0,1,0,0,University Neighborhood,,19 - 42,Female,Graduate or Professional Degree,,,,,en,802
+2018-02-14T18:32:54.000Z,0,0,0,1,0,1,0,1,0,I live outside of the City,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,803
+2018-02-20T15:50:44.000Z,1,0,0,1,0,0,0,0,0,Westcott,,> 60,Male,Less than high school,,,"$10,000 - $14,999",,en,804
+2018-01-31T23:38:18.000Z,0,0,1,1,0,0,1,0,0,Tipp Hill,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,805
+2018-02-14T21:50:34.000Z,-1,0,1,0,0,1,1,0,0,Park Ave,,19 - 42,Female,Bachelors Degree,,,,,en,806
+2018-02-07T16:09:16.000Z,0,1,0,-1,1,0,1,0,0,Meadowbrook,,19 - 42,Female,Graduate or Professional Degree,US,English,"$75,000 - $99,999",,en,807
+2018-02-01T13:59:17.000Z,0,0,0,0,1,1,1,0,0,Franklin Square,,19 - 42,Female,Graduate or Professional Degree,,,,,en,808
+2018-01-31T23:47:58.000Z,1,0,0,0,1,0,1,0,0,Sedgwick,,19 - 42,Male,Bachelors Degree,,,,,en,809
+2018-02-20T16:20:18.000Z,0,0,1,0,1,0,0,0,0,Southside,,19 - 42,Male,Associates Degree,,,,,en,810
+2018-02-07T20:55:13.000Z,0,0,1,1,-1,0,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,USA,English,"$100,000 - $149,999",,en,811
+2018-02-07T15:35:13.000Z,1,-1,0,1,0,0,0,1,0,Strathmore,,19 - 42,Male,Bachelors Degree,,,"$50,000 - $74,999",,en,812
+2018-01-31T16:30:37.000Z,0,0,1,0,0,1,1,0,0,Washington Square,,19 - 42,Male,Graduate or Professional Degree,,,,,en,813
+2018-02-07T20:06:45.000Z,0,0,1,0,1,0,1,0,0,I live outside of the City,,19 - 42,Female,Graduate or Professional Degree,,,,,en,814
+2018-02-02T01:57:57.000Z,0,0,-1,0,1,1,1,0,0,University Hill,,19 - 42,Male,Bachelors Degree,,,"$35,000 - $49,999",,en,815
+2018-02-20T15:47:51.000Z,1,0,0,0,0,1,0,0,0,Westcott,,> 60,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,816
+2018-02-07T21:53:50.000Z,1,0,0,1,0,0,0,1,0,Lincoln Hill,,19 - 42,Male,Bachelors Degree,,,"$100,000 - $149,999",,en,817
+2018-01-31T23:32:14.000Z,1,0,0,1,0,0,1,0,0,Strathmore,,43 - 60,Male,Graduate or Professional Degree,Usa,English,"$50,000 - $74,999",,en,818
+2018-02-20T16:33:27.000Z,1,0,0,1,-1,0,0,0,0,Downtown,,19 - 42,Male,High School or GED,,,"Less than $10,000",,en,819
+2018-02-20T16:15:50.000Z,0,0,1,0,1,0,0,0,0,Southside,,< 18,Male,Less than high school,,,,,en,820
+2018-02-07T18:21:05.000Z,0,0,1,0,1,-1,1,0,0,Eastwood,,43 - 60,Male,Bachelors Degree,,,"$15,000 - $24,999",,en,821
+2018-02-15T14:13:14.000Z,0,0,0,1,-1,1,1,0,0,I live outside of the City,,> 60,Male,Graduate or Professional Degree,USA,English,"$100,000 - $149,999",,en,822
+2018-02-12T13:37:05.000Z,0,0,0,0,0,1,0,1,0,I live outside of the City,,43 - 60,Female,Bachelors Degree,,,,,en,823
+2018-02-20T15:28:21.000Z,1,1,0,0,-1,0,0,0,0,Skunk City,,< 18,Male,Less than high school,,,,,en,824
+2018-02-20T15:28:30.000Z,0,1,1,0,-1,0,0,0,0,South Valley,,> 60,Male,Bachelors Degree,,,"Less than $10,000",,en,825
+2018-02-08T02:10:27.000Z,0,1,0,-1,0,1,1,0,0,Meadowbrook,,43 - 60,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,826
+2018-02-03T14:16:26.000Z,0,0,0,0,0,1,1,0,0,Other,,> 60,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,827
+2018-02-02T14:29:14.000Z,0,-1,0,1,1,0,1,0,0,University Hill,,19 - 42,Male,Bachelors Degree,Panama,English,"Less than $10,000",,en,828
+2018-02-15T23:22:32.000Z,0,1,1,-1,0,0,1,0,0,Eastwood,,43 - 60,Female,Associates Degree,,,"$50,000 - $74,999",,en,829
+2018-02-20T15:52:52.000Z,1,0,0,1,0,0,0,0,0,South Valley,,> 60,Male,Associates Degree,Usa,Klingon/Spock's Language,"$15,000 - $24,999",,en,830
+2018-01-31T23:23:52.000Z,0,1,0,0,1,-1,1,0,0,I live outside of the City,,19 - 42,Female,Graduate or Professional Degree,US,English,"$100,000 - $149,999",,en,831
+2018-01-31T23:39:36.000Z,1,1,0,0,0,0,0,1,0,Sedgwick,,19 - 42,Female,Graduate or Professional Degree,,,,,en,832
+2018-02-16T00:29:44.000Z,1,0,0,0,1,0,1,0,0,Outer Comstock,,19 - 42,Male,Graduate or Professional Degree,,,,,en,833
+2018-02-12T16:35:13.000Z,1,0,0,1,0,-1,0,0,1,Sedgwick,,43 - 60,Male,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,834
+2018-02-15T22:21:26.000Z,1,0,1,-1,0,0,1,0,0,Far Westside,,> 60,Female,Bachelors Degree,US,English (we live in America),"$50,000 - $74,999",,en,835
+2018-02-15T01:30:31.000Z,1,0,0,0,0,1,1,0,0,I live outside of the City,,43 - 60,Male,Graduate or Professional Degree,US,English,"$50,000 - $74,999",,en,836
+2018-01-31T23:57:52.000Z,-1,1,1,0,0,0,1,0,0,I live outside of the City,,> 60,Female,Bachelors Degree,,,,,en,837
+2018-02-09T20:15:19.000Z,0,0,-1,0,1,1,1,0,0,Court Woodlawn,,19 - 42,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,838
+2018-02-07T17:04:42.000Z,1,0,0,1,0,0,0,1,0,Near Westside,,> 60,Female,Graduate or Professional Degree,United States,English,"$25,000 - $34,999",,en,839
+2018-02-07T22:25:46.000Z,-1,1,0,0,0,1,0,1,0,Meadowbrook,,19 - 42,Female,Bachelors Degree,,,"$25,000 - $34,999",,en,840
+2018-02-06T19:26:06.000Z,0,0,1,1,0,0,1,0,0,Strathmore,,19 - 42,Male,Some College,,,,,en,841
+2018-02-15T22:24:34.000Z,0,0,1,0,0,0,1,0,0,Eastwood,,43 - 60,Female,Associates Degree,,,"$75,000 - $99,999",,en,842
+2018-02-01T21:30:18.000Z,1,0,-1,1,0,0,1,0,0,South Valley,,19 - 42,Female,Bachelors Degree,,,"$75,000 - $99,999",,en,843
+2018-02-08T01:14:34.000Z,1,0,0,0,-1,1,1,0,0,University Neighborhood,,19 - 42,Female,Graduate or Professional Degree,,,"$35,000 - $49,999",,en,844
+2018-02-13T22:13:29.000Z,1,0,-1,0,0,1,1,0,0,Near Westside,,19 - 42,Male,Bachelors Degree,Usa,English,,,en,845
+2018-02-16T02:42:34.000Z,0,-1,1,1,0,0,0,0,1,Eastwood,,43 - 60,Female,Associates Degree,,,"$35,000 - $49,999",,en,846
+2018-02-15T22:29:02.000Z,1,1,0,0,-1,0,1,0,0,South Valley,,43 - 60,Female,Bachelors Degree,United States,English,"$10,000 - $14,999",,en,847
+2018-02-07T18:25:59.000Z,0,0,1,0,0,1,1,0,0,University Neighborhood,,> 60,Female,Bachelors Degree,,,,,en,848
+2018-02-07T16:58:03.000Z,0,0,0,0,0,1,0,1,0,University Neighborhood,,> 60,Male,Graduate or Professional Degree,,,"$200,000 or more",,en,849
+2018-02-08T17:39:48.000Z,0,1,1,-1,0,0,1,0,0,Near Westside,,19 - 42,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,850
+2018-02-09T06:01:23.000Z,0,1,1,0,0,0,1,0,0,Northside,,19 - 42,Female,Associates Degree,,,,,en,851
+2018-02-07T16:49:17.000Z,1,0,0,0,1,0,1,0,0,I live outside of the City,,19 - 42,Male,Bachelors Degree,,,"$100,000 - $149,999",,en,852
+2018-02-15T22:52:24.000Z,1,1,0,0,0,0,1,0,0,Strathmore,,> 60,Female,Graduate or Professional Degree,,,,,en,853
+2018-02-14T22:04:01.000Z,0,0,-1,1,0,1,0,1,0,Westcott,,19 - 42,Female,Graduate or Professional Degree,,,"$15,000 - $24,999",,en,854
+2018-01-31T23:37:49.000Z,0,1,0,0,0,1,0,1,0,South Valley,,43 - 60,Male,Bachelors Degree,,English,"$50,000 - $74,999",,en,855
+2018-02-12T18:38:08.000Z,1,0,0,0,0,1,1,0,0,I live outside of the City,,43 - 60,Female,Graduate or Professional Degree,,,,,en,856
+2018-02-07T17:47:19.000Z,0,0,0,1,1,0,1,0,0,Strathmore,,19 - 42,Male,Bachelors Degree,usa,english,"$10,000 - $14,999",,en,857
+2018-02-15T23:13:27.000Z,0,0,1,-1,1,0,0,1,0,I live outside of the City,,19 - 42,Female,Graduate or Professional Degree,USA,,,,en,858
+2018-02-14T16:22:20.000Z,0,0,0,0,0,1,1,0,0,I live outside of the City,,19 - 42,Female,Graduate or Professional Degree,,,"$75,000 - $99,999",,en,859
+2018-02-08T00:14:02.000Z,1,0,0,-1,0,1,1,0,0,University Neighborhood,,> 60,Female,Graduate or Professional Degree,,,"$15,000 - $24,999",,en,860
+2018-02-06T16:33:34.000Z,0,1,0,0,0,1,0,1,0,I live outside of the City,,43 - 60,Male,Associates Degree,,,,,en,861
+2018-02-07T19:19:35.000Z,1,1,0,0,-1,0,1,0,0,Westcott,,43 - 60,Male,High School or GED,,,"$15,000 - $24,999",,en,862
+2018-02-08T02:54:41.000Z,1,1,0,0,0,0,0,1,0,Westcott,,19 - 42,Male,Bachelors Degree,United States of America,English,"$25,000 - $34,999",,en,863
+2018-02-15T03:54:43.000Z,1,1,0,0,-1,0,0,1,0,Outer Comstock,,19 - 42,Female,Bachelors Degree,,,"$50,000 - $74,999",,en,864
+2018-02-13T16:29:13.000Z,1,0,0,0,0,1,1,0,0,South Valley,,43 - 60,Female,Graduate or Professional Degree,United States,English,"$50,000 - $74,999",,en,865
+2018-02-20T15:45:01.000Z,1,1,0,0,0,0,0,0,0,Westcott,,> 60,Female,Graduate or Professional Degree,Usa,English,"$75,000 - $99,999",,en,866
+2018-02-20T15:55:58.000Z,-1,1,0,0,1,0,0,0,0,I live outside of the City,,> 60,Female,Graduate or Professional Degree,,,"$150,000 - $199,999",,en,867
+2018-01-31T00:58:54.000Z,1,0,0,-1,1,0,1,0,1,University Hill,,19 - 42,Male,Graduate or Professional Degree,Usa,English,"$100,000 - $149,999",,en,868
+2018-02-07T15:36:34.000Z,1,0,0,0,0,0,1,0,0,Eastwood,,43 - 60,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,869
+2018-02-08T14:19:01.000Z,-1,1,1,0,0,0,1,0,0,Salt Springs,,19 - 42,Female,Graduate or Professional Degree,,,"$25,000 - $34,999",,en,870
+2018-02-20T15:19:24.000Z,0,1,0,-1,1,0,0,0,0,Winkworth,,> 60,Female,Graduate or Professional Degree,,,,,en,871
+2018-02-07T18:55:54.000Z,0,1,1,0,0,0,1,0,0,Strathmore,,43 - 60,Female,Graduate or Professional Degree,U.S.,English,"$75,000 - $99,999",,en,872
+2018-02-20T16:30:50.000Z,0,0,0,1,0,1,0,0,0,Far Westside,,> 60,Male,Some College,,,,,en,873
+2018-02-08T02:13:15.000Z,0,0,0,1,0,1,1,0,0,University Neighborhood,,> 60,Female,Graduate or Professional Degree,,,,,en,874
+2018-02-15T03:01:48.000Z,0,0,1,0,0,1,0,0,0,I live outside of the City,,19 - 42,Female,Bachelors Degree,,,"$35,000 - $49,999",,en,875
+2018-02-15T02:18:48.000Z,1,0,0,0,0,1,0,0,1,Westcott,,19 - 42,Female,Graduate or Professional Degree,,,"$50,000 - $74,999",,en,876
+2018-01-31T23:35:59.000Z,0,0,0,1,1,0,1,0,0,Meadowbrook,,43 - 60,Male,Graduate or Professional Degree,,,"$100,000 - $149,999",,en,877
