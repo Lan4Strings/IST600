@@ -1,0 +1,55 @@
+School,Type,Address,Grades from,Grades to,Students,Teacher,Student:Teacher Ratio,Neibor,datasource
+All Saints Elementary Of Tipperary Hill,Private,112 S Wilbur Ave ,-1,6,87,7,12.42857143,Far West-Side,https://www.privateschoolreview.com/new-york/syracuse
+Blessed Sacrament School,Private,3129 James Street ,-1,6,278,16,17.375,Eastwood,https://www.privateschoolreview.com/new-york/syracuse
+Bishop's Academy At St. Charles Borromeo,Private,200 W High Ter ,0,6,160,13,12.30769231,not syracuse,https://www.privateschoolreview.com/new-york/syracuse
+Blessed Virgin Mary Mother Of God Academy,Private,450 Wilkinson Street ,0,12,70,17,4.117647059,Westside,https://www.privateschoolreview.com/new-york/syracuse
+Cathedral Academy At Pompei,Private,923 N Mcbride St ,0,6,90,9,10,Washington Square,https://www.privateschoolreview.com/new-york/syracuse
+Cathedral School,Private,420 Montgomery Street ,0,6,97,10,9.7,Downtown,https://www.privateschoolreview.com/new-york/syracuse
+Eagle Wings Academy,Private,2200 Valley Drive ,0,6,31,5,6.2,South Valley,https://www.privateschoolreview.com/new-york/syracuse
+Faith Heritage School,Private,3740 Midland Ave ,0,12,236,24,9.833333333,North Valley,https://www.privateschoolreview.com/new-york/syracuse
+Parkview Jr Academy,Private,412 S Avery Ave ,1,9,53,4,13.25,Westside,https://www.privateschoolreview.com/new-york/syracuse
+Syracuse Hebrew Day School,Private,5655 Thompson Rd ,1,6,67,14,4.785714286,not syracuse,https://www.privateschoolreview.com/new-york/syracuse
+Bishop Ludden Jr Sr High School,Private,815 Fay Road ,6,12,344,28,12.28571429,not syracuse,https://www.privateschoolreview.com/new-york/syracuse
+Christian Brothers Academy,Private,6245 Randall Rd ,6,12,732,48,15.25,not syracuse,https://www.privateschoolreview.com/new-york/syracuse
+Children's Beginnings,Private,100 S Clinton St,-1,-1,,,#REF!,Downtown,https://www.privateschoolreview.com/new-york/syracuse
+Holy Cross Elementary School,Private,4200 E Genesee St ,-1,6,210,10,21,not syracuse,https://www.privateschoolreview.com/new-york/syracuse
+Ihsan School Of Excellence,Private,1406 Park St ,-1,8,98,15,6.533333333,Northside,https://www.privateschoolreview.com/new-york/syracuse
+Jowonio School,Private,3049 E Genesee St ,-1,0,170,10,17,Meadowbrook,https://www.privateschoolreview.com/new-york/syracuse
+Living Word Academy,Private,6101 Court Street Rd ,-1,12,208,10,20.8,not syracuse,https://www.privateschoolreview.com/new-york/syracuse
+Manlius Pebble Hill School,Private,5300 Jamesville Rd ,-1,12,352,43,8.186046512,not syracuse,https://www.privateschoolreview.com/new-york/syracuse
+Merriday School,Private,1636 James St ,-1,0,24,3,8,Northside,https://www.privateschoolreview.com/new-york/syracuse
+Montessori Discovery School,Private,109 Waring Rd ,-1,0,25,3,8.333333333,not syracuse,https://www.privateschoolreview.com/new-york/syracuse
+Montessori School Of Syracuse,Private,155 Waldorf PKwy ,-1,6,150,19,7.894736842,not syracuse,https://www.privateschoolreview.com/new-york/syracuse
+Most Holy Rosary School,Private,1031 Bellevue Ave ,-1,6,134,12,11.16666667,Strathmore,https://www.privateschoolreview.com/new-york/syracuse
+St Margarets School,Private,201 Roxboro Rd ,-1,6,251,18,13.94444444,not syracuse,https://www.privateschoolreview.com/new-york/syracuse
+St Rose Of Lima School,Private,411 S Main St ,-1,6,377,13,29,not syracuse,https://www.privateschoolreview.com/new-york/syracuse
+Bellevue Elementary School,Public,1607 S. Geddes St.,-1,5,480,37,12.97297297,Strathmore,https://data.nysed.gov/profile.php?instid=800000040904
+Clary Middle School,Public,100 Amidon Dr,6,8,375,36,10.41666667,South Valley,https://data.nysed.gov/profile.php?instid=800000040903
+Danforth Middle School,Public,309 W. Brighton Ave.,6,8,376,34,11.05882353,Elmwood,https://data.nysed.gov/profile.php?instid=800000040858
+Expeditionary Learning Middle School,Public,4942 S. Salina St.,6,8,180,17,10.58823529,South Valley,https://data.nysed.gov/profile.php?instid=800000065436
+Grant Middle School,Public,2400 Grant Blvd.,6,8,653,54,12.09259259,Northside,https://data.nysed.gov/profile.php?instid=800000040889
+Lincoln Middle School,Public,"1613 James Street,",6,8,477,39,12.23076923,Sedgewick,https://data.nysed.gov/profile.php?instid=800000040861
+Westside Academy at Blodgett,Public,312 Oswego Street,6,8,418,34,12.29411765,Near Westside,https://data.nysed.gov/profile.php?instid=800000071274
+Corcoran High School,Public,919 Glenwood Ave.,9,12,1429,85,16.81176471,Elmwood,https://data.nysed.gov/profile.php?instid=800000040887
+Henninger High School,Public,600 Robinson Street,9,12,1790,97,18.45360825,Eastwood,https://data.nysed.gov/profile.php?instid=800000040856
+Institute Of Technology At Syracuse Central,Public,258 East Adams St.,9,12,551,43,12.81395349,SouthWest,https://data.nysed.gov/profile.php?instid=800000040860
+Nottingham High School,Public,3100 E. Genesee St.,9,12,1344,77,17.45454545,Meadowbrook,https://data.nysed.gov/profile.php?instid=800000040872
+PUBLIC SERVICE LEADERSHIP ACADEMY AT FOWLER,Public,227 Magnolia Street,9,12,620,35,17.71428571,Near Westside,https://data.nysed.gov/profile.php?instid=800000083904
+Syracuse Latin,Public,345 Jamesville Ave.,0,5,215,11,19.54545455,Outer Comstock,https://data.nysed.gov/profile.php?instid=800000083903
+Delaware Primary,Public,900 S. Geddes Street,-1,2,363,24,15.125,Skunk City,https://data.nysed.gov/profile.php?instid=800000083905
+Dr. King Elementary School,Public,"416 E. Raynor Ave.,ÿ",-1,5,629,46,13.67391304,SouthWest,https://data.nysed.gov/reportcard.php?instid=800000040857
+Dr. Weeks Elementary School,Public,710 Hawley Ave.,-1,5,796,52,15.30769231,Near Northeast,https://data.nysed.gov/profile.php?instid=800000040868
+Ed Smith Pre-K-8 School,Public,191 Fellows Ave,-1,8,744,56,13.28571429,Wescott,https://data.nysed.gov/profile.php?instid=800000040906
+Franklin Elementary School,Public,428 S. Alvord St.,-1,5,722,51,14.15686275,Washington Square,https://data.nysed.gov/profile.php?instid=800000040880
+Frazer Pre-K-8 School,Public,"741 Park Ave.,ÿ",-1,8,897,68,13.19117647,Westside,https://data.nysed.gov/profile.php?instid=800000040881
+Huntington Pre-K-8 School,Public,400 Sunnycrest Rd.,-1,8,975,66,14.77272727,Eastwood,https://data.nysed.gov/profile.php?instid=800000040879
+Hurlbut W Smith K-8 School,Public,1130 Salt Springs Road,-1,8,822,60,13.7,Meadowbrook,https://data.nysed.gov/profile.php?instid=800000040886
+LeMoyne Elementary School,Public,1528 LeMoyne Ave.,-1,5,524,37,14.16216216,Northside,https://data.nysed.gov/profile.php?instid=800000040877
+McKinley-Brighton Elementary School,Public,141 W. Newell street,-1,5,659,45,14.64444444,Elmwood,https://data.nysed.gov/profile.php?instid=800000040865
+Meachem Elementary School,Public,171 Spaulding Ave.,-1,5,434,28,15.5,South Valley,https://data.nysed.gov/profile.php?instid=800000040876
+Porter Elementary School,Public,512 Emerson Ave.,-1,6,560,34,16.47058824,Far West-Side,https://data.nysed.gov/profile.php?instid=800000040883
+Roberts Pre-K-8 School,Public,715 Glenwood Ave.,-1,8,698,54,12.92592593,Elmwood,https://data.nysed.gov/profile.php?instid=800000040875
+Salem Hyde Elementary School,Public,450 Durston Ave.,-1,6,528,39,13.53846154,Sedgewick,https://data.nysed.gov/profile.php?instid=800000040878
+Seymour Dual Language Academy,Public,108 Shonnard Street,-1,5,595,43,13.8372093,Near Westside,https://data.nysed.gov/profile.php?instid=800000040884
+Van Duyn Elementary School,Public,401 Loomis Ave.,-1,5,428,29,14.75862069,North Valley,https://data.nysed.gov/profile.php?instid=800000040905
+Webster Elementary School,Public,500 Wadsworth Street,-1,5,659,45,14.64444444,Northside,https://data.nysed.gov/profile.php?instid=800000040866
