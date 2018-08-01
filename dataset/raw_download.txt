@@ -1,1 +1,6 @@
 https://drive.google.com/open?id=1CJMkoO_eZ2AGDGGmoKylRI731rlYJFz2
+
+
+"parceldata.csv" links with "parcel2017.1-2018.1.csv"(it can be substituted by data for other years)
+"crimedata.csv" links with "crime2017.csv"
+"census.csv" links with 
