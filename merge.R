@@ -60,7 +60,7 @@ datacrime$Address[West==TRUE]<-paste(datacrime$Address[West==TRUE],"w")
 
 datamerged<-merge(datanew,datacrime,by.x="block.address",by.y="Address"
                   ,all.x=TRUE
-                  ,all.y=TRUE
+                  #,all.y=TRUE
 )
 datamerged$Aggravated.assault[is.na(datamerged$Aggravated.assault)]<-0
 datamerged$Arson[is.na(datamerged$Arson)]<-0
