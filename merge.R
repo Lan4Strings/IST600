@@ -69,6 +69,7 @@ datamerged$Larceny[is.na(datamerged$Larceny)]<-0
 datamerged$Murder[is.na(datamerged$Murder)]<-0
 datamerged$Robbery[is.na(datamerged$Robbery)]<-0
 datamerged$Vehicle.theft[is.na(datamerged$Vehicle.theft)]<-0
+datamerged$Total[is.na(datamerged$Total)]<-0
 #save(datamerged,file="datamerged.Rdata")
 
 missdata_parcel<-datamerged[is.na(datamerged$Sec_Block),]
@@ -77,6 +78,70 @@ missdata_crime<-datamerged[datamerged$Total==0,]
 
 
 df2<-datamerged
+
+
+
+####merge on block level
+#adding latitude and longitude to the block level addresses
+#Obtaining the corresponding latitude and longitude for the block level addresses of Group A & B merged dataset
+#or just load the dataset if already done that
+
+load("datamerged_coordinate.Rdata")
+
+# for(i in 1:nrow(datamerged))
+# {lonlat_sample[i] <- as.numeric(geocode(datamerged$Block.Address[i]))  #row containing the addresses. Note: Ensure the addresses are of the format: "xxx,Syracuse,NY". Else similar longitude latitude of different countries may get assigned
+# }
+# datamerged_coordinate<-data.frame(datamerged,Long=lonlat_sample[1],Lat=lonlat_sample[2])
+# save(datamerged_coordinate,file="datamerged_coordinate.Rdata")
+
+
+#calculating distance between two address points
+library("spatstat")
+
+###################################################################################################################
+
+#loading the above obtained dataset containing the block level addresses(without duplicates), along with their corresponding latitude and longitude values
+Data_AB <- datamerged_coordinate #Note: for consistency, the latitude and longitude have been switched. i.e. Latitude is in column 2 now and longitude is in column 3
+View(Data_AB)
+
+#loading census data, containg only the latitude and longitude 
+Data_C <- df3
+
+#Creating 4 new columns to store the results
+Data_C$Lat_AB <- 0
+Data_C$Long_AB <- 0
+Data_C$Min_len <- 0
+Data_C$Address <- " "
+
+str(Data_AB)
+
+#converting factor to character data type
+Data_AB$block_Address <- as.character(Data_AB$block_Address)
+
+library(spatstat) #library containg the crossdist function to calculate euclidean distance
+
+for(i in 1:nrow(Data_C))
+{
+  for(j in 1:nrow(Data_AB))
+  {
+    dist <- crossdist(Data_C$INTPTLAT[i],Data_C$INTPTLON[i],Data_AB$LAT[j],Data_AB$LONG[j]) #function to calculate euclidean distance between latitude and longitude of Group C and lat, long of Group AB
+    
+    if(j==1 || dist < min_len)
+    {
+      min_len <- dist
+      Data_C$Lat_AB[i] <- Data_AB$LAT[j] #assiging latitude of GroupAB whose distance from Group C latitude is minimum
+      Data_C$Long_AB[i,4] <- Data_AB$LONG[j] #assiging longitude of GroupAB whose distance from Group C longitude is minimum
+      Data_C$Min_len[i,5] <- min_len
+      Data_C$Address[i,6] <- Data_AB$block_Address #assiging block address of GroupAB for the corresponding lat,long
+    }
+    
+  }
+}
+
+df1<-Data_C
+
+
+
 ## end your R code and logic 
 
 
