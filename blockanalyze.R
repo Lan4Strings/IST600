@@ -69,7 +69,7 @@ library(ggplot2)
 ggplot(tempMelt, aes(x=Vacant_Pr,y=variable, fill=value)) + geom_tile() + scale_fill_gradient(low="yellow", high = "orange")
 
 # Scatter Plot
-ggplot(regression.data, aes(x=YearBuilt, y=Vacant_Pr, size=Units, col=Units))+geom_jitter(width = 0.5, height = 1) + geom_abline()
+ggplot(regression.data, aes(x=YearBuilt, y=Vacant_Pr, col=Units))+geom_jitter(width = 0.5, height = 1) + geom_abline()
 
 
 # Visualizing the results for Y = Occupied_Pr
@@ -84,7 +84,7 @@ tempMelt1 <- melt(temp1, id='Occupied_Pr')
 ggplot(tempMelt1, aes(x=Occupied_Pr,y=variable, fill=value)) + geom_tile() + scale_fill_gradient(low="yellow", high = "orange")
 
 # Scatter Plot
-ggplot(regression.data, aes(x=YearBuilt, y=Occupied_Pr, size=Units, col=Units,))+geom_jitter(width = 0.5, height = 1) + geom_abline()
+ggplot(regression.data, aes(x=YearBuilt, y=Occupied_Pr, col=Units,))+geom_jitter(width = 0.5, height = 1) + geom_abline()
 ## end your R code and logic 
 
 ####################################
